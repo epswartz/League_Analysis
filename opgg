@@ -1,0 +1,1336 @@
+	<!DOCTYPE html>
+	<!--
+	  ,ad8888ba,   88888888ba         ,ad8888ba,    ,ad8888ba,
+	 d8"'    `"8b  88      "8b       d8"'    `"8b  d8"'    `"8b
+	d8'        `8b 88      ,8P      d8'           d8'
+	88          88 88aaaaaa8P'      88            88
+	88          88 88""""""'        88      88888 88      88888
+	Y8,        ,8P 88               Y8,        88 Y8,        88
+	 Y8a.    .a8P  88                Y8a.    .a88  Y8a.    .a88
+	  `"Y8888Y"'   88     dev@op.gg   `"Y88888P"    `"Y88888P"
+
+		 Copyright © 2013-2019 OP.GG. All rights reserved.
+-->
+<html lang="en_US">
+<head>
+	<script>
+		(function(t, l) {
+			try {
+				let w = window,
+					d = document,
+					s = d.createElement("script"),
+					f = d.getElementsByTagName("script")[0];
+				w[t] =
+					w[t] ||
+					function() {
+						(w["_rgea"] = w["_rgea"] || [["uts", new Date()]]).push(
+							Array.prototype.slice.call(arguments)
+						);
+						w.RGEA && w.RGEA.p();
+					};
+				s.type = "text/javascript";
+				s.async = true;
+				s.defer = true;
+				s.src = l;
+				f.parentNode.insertBefore(s, f);
+
+				// 되는 파라미터
+				rgea("propertyId", "RGEA0002-32de3446-a2a6-4f9a-a387-f40138212b2b");
+				rgea("lolpid", 'na1');
+				rgea("anonymous", false);
+			} catch (error) {
+				console.error(error);
+			}
+		})("rgea", "https://static.developer.riotgames.com/js/rgea.min.js");
+	</script>
+	<!-- Venatus Market v3 -->
+	<script>
+		(function(){
+			document.write('<div id="vmv3-ad-manager" style="display:none"></div>');
+			document
+				.getElementById("vmv3-ad-manager")
+				.innerHTML = '<iframe id="vmv3-frm" src="javascript:\'\<html\>\<body\>\</body\>\</html\>\'" width="0" height="0" data-mode="scan" data-site-id="5a8460b346e0fb0001fc3bac" data-content-width="1120"></iframe>';
+			var loaderFrame = document.getElementById("vmv3-frm");
+			var loaderFrameWindow = loaderFrame.contentWindow ? loaderFrame.contentWindow : loaderFrame.contentDocument;
+			loaderFrameWindow.document.open();
+			loaderFrameWindow.document.write('<scr' + 'ipt src="//hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" async onerror="window.parent.lifeOnwer();">' + '</scr' + 'ipt>');
+			loaderFrameWindow.document.close();
+		})();
+	</script>
+	<!-- / Venatus Market v3 -->
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WXXJDMH');</script>
+	<!-- End Google Tag Manager -->
+	<meta name="title" content="Summoner&#039;s ladder ranking :: LoL Stats, Record Replay, Database, Guide - OP.GG"/>
+	<meta property="og:title" content="Summoner&#039;s ladder ranking :: LoL Stats, Record Replay, Database, Guide - OP.GG"/>
+	<meta name="description" content="Real-time LoL Stats! Check your Summoner, Live Spectate and using powerful global League of Legends Statistics!"/>
+	<meta property="og:description" content="Real-time LoL Stats! Check your Summoner, Live Spectate and using powerful global League of Legends Statistics!"/>
+	<meta name="keywords" content="League of Legends Stats, LoL Guide, Real-time In Game, Statistics, LoL Spectate, Leaderboards, Chart, Champion Guide, Champion Build, LOLKing, Champion Counter"/>
+	<meta name="theme-color" content="#4285f4">
+	<title>Summoner&#039;s ladder ranking :: LoL Stats, Record Replay, Database, Guide - OP.GG</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<meta name="google-play-app" content="app-id=gg.op.lol.android"/>
+				<meta property="fb:app_id" content="677811765617932"/>
+			<meta property="og:site_name" content="OP.GG North America"/>
+			<meta property="og:type" content="website"/>
+			<meta property="og:image" content="//opgg-static.akamaized.net/images/logo/2015/reverse.rectangle.png"/>
+		<link rel="canonical" href="http://na.op.gg/ranking/ladder/page=593">
+			<link rel="alternate" hreflang="x-default" href="http://na.op.gg/">
+			<link rel="alternate" hreflang="en-us" href="http://na.op.gg/l=en_US">
+			<link rel="alternate" hreflang="ko-kr" href="http://na.op.gg/l=ko_KR">
+			<link rel="alternate" hreflang="ja" href="http://na.op.gg/l=ja">
+			<link rel="alternate" hreflang="pl" href="http://na.op.gg/l=pl">
+			<link rel="alternate" hreflang="fr" href="http://na.op.gg/l=fr">
+			<link rel="alternate" hreflang="de" href="http://na.op.gg/l=de">
+			<link rel="alternate" hreflang="es" href="http://na.op.gg/l=es">
+			<link rel="alternate" hreflang="nl" href="http://na.op.gg/l=nl">
+			<link rel="alternate" hreflang="da" href="http://na.op.gg/l=da">
+			<link rel="alternate" hreflang="sv" href="http://na.op.gg/l=sv">
+			<link rel="alternate" hreflang="no" href="http://na.op.gg/l=no">
+			<link rel="alternate" hreflang="ru" href="http://na.op.gg/l=ru">
+			<link rel="alternate" hreflang="hu" href="http://na.op.gg/l=hu">
+			<link rel="alternate" hreflang="fi" href="http://na.op.gg/l=fi">
+			<link rel="alternate" hreflang="tr" href="http://na.op.gg/l=tr">
+			<link rel="alternate" hreflang="ro" href="http://na.op.gg/l=ro">
+			<link rel="alternate" hreflang="pt" href="http://na.op.gg/l=pt">
+			<link rel="alternate" hreflang="zh-cn" href="http://na.op.gg/l=zh_CN">
+			<link rel="alternate" hreflang="zh-tw" href="http://na.op.gg/l=zh_TW">
+			<link rel="alternate" hreflang="sr" href="http://na.op.gg/l=sr">
+			<link rel="alternate" hreflang="it" href="http://na.op.gg/l=it">
+			<link rel="alternate" hreflang="th-th" href="http://na.op.gg/l=th_TH">
+			<link rel="alternate" hreflang="vi-vn" href="http://na.op.gg/l=vi_VN">
+		<link rel="icon" type="image/x-icon" href="/favicon.ico?4"/>
+	<link rel="apple-touch-icon-precomposed" href="//opgg-static.akamaized.net/icon/Icon-72.png?v2"/>
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//opgg-static.akamaized.net/icon/Icon-72.png?v2"/>
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//opgg-static.akamaized.net/icon/Icon@2x.png?v2"/>
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//opgg-static.akamaized.net/icon/Icon-144.png?v2"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+	<meta name="format-detection" content="telephone=no">
+	<meta name="autocomplete" content="off">
+	<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEVlFSDBAHXFNWDgMBVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script>
+			<link href="//opgg-static.akamaized.net/css3/common.css?t=1572582452" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/sprite.css?t=1572582452" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/forum.css?t=1572582452" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/new.css?t=1572582452" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/ranking.css?t=1572582452" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/summoner.css?t=1572582452" rel="stylesheet" type="text/css">
+		<!--[if gt IE 9]><!-->
+		<!--<![endif]-->
+	<script src="//opgg-static.akamaized.net/js3/head.js?2"></script>
+	<script type="text/javascript" src="//opgg-cdn.akamaized.net/moment-2.5.0/moment.js"></script>
+		<script>
+		_i18n.stringList = {"SUMMONER_FAVORITE_LIMIT_EXCEED_IELOW":"Internet Explorer can only save {{limit}} summoners. If you wish to add more favorites, please use Google Chrome or higher version of Internet Explorer.","NOTICE_WONDERINGABOUTMMR":"If you have any questions, please check <a href=\"\/help\/mmr\/\">Help<\/a> first.","MMR_SUBTITLE":"This service estimates your MMR by using OP.GG's algorithm that compares and analyzes the tier information of the summoners you have been matched with.","MMR \uc815\ud655\ub3c4":"MMR Accuracy","\uc11c\ubc84\uc5d0 \ubd80\ud558\uac00 \uc2ec\ud574 \ub370\uc774\ud130\ub97c \uac00\uc838\uc62c \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub2e4\uc2dc \uc2dc\ub3c4\ud574\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.":"Due to overload on server, loading data has failed. Please try again later.","\uc5bc\ub9c8\ub098 \ubbff\uc744\ub9cc\ud55c\uc9c0\uc758 \uc218\uce58\uc785\ub2c8\ub2e4.":"This is the reliability and accuracy of the numbers.","SPECTATE_SETLOLDIRECTORY_PROMPT":"Please locate your League of Legends directory path where your RADS folder is. (Ex: D:\\Game\\Riot Games\\League of Legends KR)","SPECTATE_SETLOLDIRECTORY_REMOVED":"Directory path setting has been deleted","SPECTATE_SETLOLDIRECTORY_SETTED":"Directory path set to [{{directoryPath}}].","FAVORITE_SUMMONERS_TITLE":"Favorites","CHART_NOTICE_ABOVE_BRONZE":"Summoners above Bronze","CHART_NOTICE_ABOVE_IRON":"Summoners above Iron","CHART_TITLE_PICK_RATE_PER_GAME":"Pick ratio per game","CHART_TITLE_BAN_RATE_PER_GAME":"Ban ratio per game","CHART_TITLE_KDA_PER_GAME":"KDA per game","CHART_TITLE_CS_PER_GAME":"CS per game","CHART_TITLE_AVG_EA_PER_GAME":"Average per game {{count}}","CHART_TITLE_AVG_GOLD_PER_GAME":"Average gold per game: {{gold}}","CHART_TITLE_GOLD_OBTAIN_PER_GAME":"Gold earned per game","CHART_TITLE_WARDS_OBTAIN_PER_GAME":"Wards purchased per game","CHART_TITLE_LEAVE_PER_10K_GAMES":"Leaver count per 10k games","CHART_NOTICE_NO_DATA_THIS_OPTION":"This option does not have any data. Please choose a different option.","CHART_TITLE_ACCUM_PLAY_COUNT":"Total games played","CHART_NOTICE_ORDER_BY_WINRATE_MOUSE_HOVER_TO_SEE_CHAMP_PLAYCOUNT":"They are in order of win ratios, and you can see their number of games played by putting your mouse cursor over them.","CHART_TITLE_PLAY_COUNT":"Games played","CHART_TIERSHARE_LABEL":"Distribution","CHART_TIERSHARE_TOOLTIP":"Percentage in this tier","COMMON_AVERAGE":"Average","STATISTICS_FILTER_CHART_WINRATIO":"Win rate","TIER_RANK_DISTRIBUTION_CHART_TITLE":"League Distribution","RANK":"Ranked","CHART_TITLE_CHAMPION_AVERAGE":"Champion Average","ROLE-TOP":"Top","ROLE-JUNGLE":"Jungle","ROLE-MID":"Middle","ROLE-ADC":"ADC","ROLE-BOTTOM":"Bottom","ROLE-SUPPORT":"Support","PATCH":"Patch","CHAMPION_SKILLVIDEO_ERROR_MESSAGE":"\ud604\uc7ac \ub77c\uc774\uc5c7\uc5d0\uc11c \uc81c\uacf5\ud558\uc9c0 \uc54a\ub294 \uc601\uc0c1\uc785\ub2c8\ub2e4.","CHAMPION_GUIDE_RECOMMEND_LOGIN_EXCEPTION":"You need to login first to upvote.  Would you like to login?","CHAMPION_GUIDE_WRITE_YOUTUBE_LINK_VERIFY_EXCEPTION":"Click \"Apply\" to add a YouTube link.","CHAMPION_GUIDE_WRITE_SKILL_COUNT_EXCEPTION":"Please use all 18 points.","CHAMPION_GUIDE_DELETE_CONFIRM":"Are you sure you want to delete this?","EDITOR_STYLE_BUTTON_H2":"Section Title","EDITOR_STYLE_BUTTON_H3":"Subsection Title","EDITOR_CONTENT_PLACEHOLDER":"Enter text."};
+		moment.diffLocal = Math.round(new Date().getTime() / 1000) - 1572981152 -1;
+		_isMobile = false;
+	</script>
+	<!--[if lt IE 9]>
+	<script src="//opgg-cdn.akamaized.net/jquery-1.11.2/jquery-1.11.2.min.js"></script>
+	<script src="//opgg-cdn.akamaized.net/jquery-migrate-1.2.1/jquery-migrate-1.2.1.min.js"></script>    <![endif]-->
+
+	<!--[if gte IE 9]><!-->
+	<script src="//opgg-cdn.akamaized.net/jquery-2.1.3/jquery-2.1.3.min.js"></script>
+	<!--<![endif]-->
+
+	<!--[if lte IE 9]>
+	<script src="//opgg-cdn.akamaized.net/jquery.placeholder-2.1.2/jquery.placeholder.min.js"></script>
+	<script>
+		$(function(){
+			$("input, textarea").placeholder();
+		});
+	</script>    <![endif]-->
+			<script src="//opgg-cdn.akamaized.net/modernizr-2.7.1/modernizr.js"></script>
+			<script src="//opgg-static.akamaized.net/lib/browserdetect.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/lib/jquery.scrolltofixed-1.0.8-custom.js?1572582452"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.cookie-1.3.1/jquery.cookie.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.tablesorter-2.23.3/jquery.tablesorter.min.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.tablesorter-2.23.3/jquery.tablesorter.widgets.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.select.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.radio.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.checkbox.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.autocomplete-1.3.0/jquery.autocomplete-1.3.0.min.js"></script>
+			<script src="//opgg-cdn.akamaized.net/tipped-4.6.1/js/tipped/tipped.js"></script>
+			<script src="//opgg-static.akamaized.net/js3/common.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/js3/layout.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/js3/sidebar.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/js3/tracker.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/js3/mobile.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/js3/detectAds.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/js3/jquery.bxslider.min.js?1572582452"></script>
+			<script src="//opgg-static.akamaized.net/js3/uuid_v1.js?1572582452"></script>
+					    	
+    <script>
+        $(function () {
+            $.OP.GG.common.GNBAutoComplete.init();
+
+            $('.gnb-btn-dropdown').click(function () {
+                var dropdownButton = $(this),
+                    dropdownItem = dropdownButton.closest('.gnb-list-item-dropdown');
+
+                dropdownItem.toggleClass('gnb-list-item-dropdown--acitve');
+
+                $(document).on('click', function (event) {
+                    var target = event.target || event.srcElement;
+                    var $target = $(target);
+
+                    if (!$target.closest('.gnb-list-item-dropdown').length) {
+                        dropdownItem.removeClass('gnb-list-item-dropdown--acitve');
+                    }
+                });
+            });
+
+            $('.gnb-btn-setting').on('click', function () {
+                if (typeof fbq == 'function') {
+                    $.OP.GG.tracker.combine.sendEvent([
+                        'FB', 'Pixel'
+                    ], 'Index', 'ShowChangeRegion', {Referral: 'GNB'});
+                }
+            });
+            $('.site a').on('click', function (evt) {
+                var $site = $(evt.target).closest('.site');
+                $.OP.GG.tracker.combine.sendEvent([
+                    'FB', 'Pixel'
+                ], 'Index', 'ClickGlobalMenu', {MenuType: $site.data('site')});
+            });
+        })
+    </script>
+
+	<script>
+		$(function(){
+			$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Ranking', 'Visit');
+		})
+	</script>
+
+	<script>
+			</script>
+					<script>
+		var _hmt = _hmt || [];
+		(function(){
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?29884b6641f1b5709cc89a8ce5a99366";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+	<!-- Facebook Pixel Code -->
+	<script>
+		!function(f, b, e, v, n, t, s){
+			if (f.fbq) return;
+			n = f.fbq = function(){
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window,
+			document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '1366379470122349');
+		fbq('track', 'PageView', null);
+	</script>
+	<script>
+		if (Facebook) {
+			Facebook.init(function(FB){
+								FB.AppEvents.logPageView();
+			});
+		}
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	               src="https://www.facebook.com/tr?id=1366379470122349&ev=PageView&noscript=1"
+		/></noscript>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+
+	<!-- Firebase -->
+	<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/5.5.2/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/5.5.2/firebase-messaging.js"></script>
+	<script>
+      var config = {
+        apiKey: "AIzaSyCoC_v5HhQdmnrHIbaBHmXuVq_n8dL5-ws",
+        projectId: "opgg-app",
+        messagingSenderId: "115916307426"
+      };
+      firebase.initializeApp(config);
+
+      var messaging = firebase.messaging();
+      messaging.requestPermission().then(function () {
+        messaging.getToken().then(function (currentToken) {
+          if (currentToken) {
+            var _ot = '';
+            var value = "; " + document.cookie;
+            var parts = value.split("; " + '_ot' + "=");
+            if (parts.length == 2) {
+              _ot = parts.pop().split(";").shift();
+            }
+
+            var headers = {
+              "X-OPGG-OCM-Service": 'OCMAPI-243ACA75-E271-4B47-AEC0-0551DAF56B94',
+              "Content-Type": "application/json"
+            };
+
+            if (_ot) {
+              headers['X-OCM-Access-Token'] = 'Bearer ' + _ot;
+            }
+
+            $.ajax({
+              type: 'POST',
+              url: "https://ocm-api.op.gg/ocm/v1/token",
+              data: JSON.stringify({
+                "country": "NA",
+                "token": currentToken,
+                "topics": [
+                  "LOL"
+                ],
+                "type": "WEB"
+              }),
+              headers: headers,
+              crossDomain: true,
+              success: function (data) {
+                // console.log(data);
+              },
+              fail: function (err) {
+                console.log(err);
+              }
+            });
+          } else {
+            console.log('No Instance ID token available. Request permission to generate one.');
+          }
+        }).catch(function (err) {
+          console.log('An error occurred while retrieving token. ', err);
+        });
+      }).catch(function (err) {
+        console.log('Unable to get permission to notify.', err);
+      });
+	</script>
+</head>
+<!--[if IE 7]>
+<body class="ie7 "><![endif]--><!--[if IE 8]>
+<body class="ie8 "><![endif]--><!--[if IE 9]>
+<body class="ie9 "><![endif]--><!--[if gt IE 9]><!-->
+<body class=""><!--<![endif]-->
+		    <div class="l-wrap l-wrap--ranking"><header class="gnb"><div class="opgg-header opgg-header--gamg-fn"><div class="opgg-header__gnb"><h1 class="opgg-header__logo"><a class="opgg-header__logo-anchor" href="/"><img alt="OP.GG" height="16" src="//opgg-static.akamaized.net/images/gnb/svg/00-opgglogo.svg" width="65"></a></h1><nav class="opgg-header__navi"><button class="opgg-header__navi-open" type="button"><span class="opgg-header__navi-thumb"><img src="//opgg-static.akamaized.net/images/gnb/img/icon-navi-lol.png" alt="League of Legends"></span>League of Legends</button><div class="opgg-header__navi-box"><div class="opgg-header__navi-list opgg-header__navi-list--type-game"><strong class="opgg-header__navi-title">GAME STATS</strong><a class="opgg-header__navi-item" target="_blank" href="//pubg.op.gg"><span class="opgg-header__navi-poster opgg-header__navi-poster--game-pubg"></span><span class="opgg-header__navi-name">PUBG</span></a><a class="opgg-header__navi-item" target="_blank" href="//overwatch.op.gg"><span class="opgg-header__navi-poster opgg-header__navi-poster--game-ow"></span><span class="opgg-header__navi-name">Overwatch</span></a><a class="opgg-header__navi-item" target="_blank" href="//fortnite.op.gg"><span class="opgg-header__navi-poster opgg-header__navi-poster--game-fn"></span><span class="opgg-header__navi-name">Fortnite</span></a><a class="opgg-header__navi-item" target="_blank" href="//r6.op.gg/"><span class="opgg-header__navi-poster opgg-header__navi-poster--game-r6"></span><span class="opgg-header__navi-name">Rainbow Six Siege</span></a><a class="opgg-header__navi-item" target="_blank" href="//talk.op.gg/s/lol/all?sort=popular"><span class="opgg-header__navi-poster opgg-header__navi-poster--talk"></span><span class="opgg-header__navi-name">TALK.OP.GG</span></a></div><button class="opgg-header__navi-close" type="button"><img src="//opgg-static.akamaized.net/images/gnb/svg/icon-close-off.svg" alt="닫기" width="11" height="11"></button></div><div class="layer-dim"></div></nav><div class="opgg-header__util"><div class="opgg-header__util-box"><span class="opgg-header__info" href="#"><img src="//opgg-static.akamaized.net/images/gnb/svg/00-opgglogo.svg" alt="OP.GG" width="65" height="16"></span><!-- <div class="opgg-header__util-item  opgg-header__util-item--type-login"><div class="opgg-login" ></div></div> --><div class="opgg-header__util-item opgg-header__util-item--type-language"><div class="opgg-language"><img src="//opgg-static.akamaized.net/images/icon-language@2x.png" class="opgg-header__navi-noti-icon"><button class="opgg-language__open" type="button" onclick="$.OP.GG.layout.regionLanguage.open();"><span class="opgg-language__open-title">Language</span><span class="opgg-language__open-short"></span></button><div class="opgg-language__box"><strong class="opgg-language__box-title">Language</strong><div class="opgg-language__list"><a class="opgg-language__item opgg-language__item--is-active" href="javascript:;" data-locale="en_US" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'en_US' })"><span>English</span></a><a class="opgg-language__item " href="javascript:;" data-locale="ko_KR" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ko_KR' })"><span>한국어</span></a><a class="opgg-language__item " href="javascript:;" data-locale="ja" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ja' })"><span>日本語</span></a><a class="opgg-language__item " href="javascript:;" data-locale="pl" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'pl' })"><span>język polski</span></a><a class="opgg-language__item " href="javascript:;" data-locale="fr" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'fr' })"><span>français</span></a><a class="opgg-language__item " href="javascript:;" data-locale="de" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'de' })"><span>Deutsch</span></a><a class="opgg-language__item " href="javascript:;" data-locale="es" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'es' })"><span>español</span></a><a class="opgg-language__item " href="javascript:;" data-locale="nl" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'nl' })"><span>Nederlands</span></a><a class="opgg-language__item " href="javascript:;" data-locale="da" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'da' })"><span>dansk</span></a><a class="opgg-language__item " href="javascript:;" data-locale="sv" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'sv' })"><span>Svenska</span></a><a class="opgg-language__item " href="javascript:;" data-locale="no" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'no' })"><span>Norsk</span></a><a class="opgg-language__item " href="javascript:;" data-locale="ru" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ru' })"><span>русский язык</span></a><a class="opgg-language__item " href="javascript:;" data-locale="hu" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'hu' })"><span>magyar</span></a><a class="opgg-language__item " href="javascript:;" data-locale="fi" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'fi' })"><span>suomi</span></a><a class="opgg-language__item " href="javascript:;" data-locale="tr" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'tr' })"><span>Türkçe</span></a><a class="opgg-language__item " href="javascript:;" data-locale="ro" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ro' })"><span>limba română</span></a><a class="opgg-language__item " href="javascript:;" data-locale="pt" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'pt' })"><span>português</span></a><a class="opgg-language__item " href="javascript:;" data-locale="zh_CN" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'zh_CN' })"><span>简体中文</span></a><a class="opgg-language__item " href="javascript:;" data-locale="zh_TW" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'zh_TW' })"><span>繁體中文</span></a><a class="opgg-language__item " href="javascript:;" data-locale="sr" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'sr' })"><span>српски језик</span></a><a class="opgg-language__item " href="javascript:;" data-locale="it" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'it' })"><span>italiano</span></a><a class="opgg-language__item " href="javascript:;" data-locale="th_TH" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'th_TH' })"><span>ไทย</span></a><a class="opgg-language__item " href="javascript:;" data-locale="vi_VN" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'vi_VN' })"><span>Tiếng Việt</span></a></div><button class="opgg-language__close" type="button"><img src="//opgg-static.akamaized.net/images/gnb/svg/icon-close-off.svg" alt="닫기" width="11" height="11"></button></div><div class="layer-dim"></div></div></div></div></div><ul class="gnb-list"></ul></div></div></header><script>
+    	;$(document).ready( function(){
+			(function(){
+				//tab test
+				$tab = $('[class^="c-tab__"]'),
+					$tabItem = $tab.find('[class*="item"]');
+				$tabItem.on('click', function(){
+					var _this = $(this);
+					className = _this[0].classList[0],
+						activeClass = className+'--is-active';
+					_this.addClass(activeClass).siblings().removeClass(activeClass);
+				});
+			})();
+
+		(function () {
+			var $opggUtil = $('.opgg-header__util-box'),
+				$btnUtilOpen = $('.opgg-header__util-open'),
+				openClass = 'opgg-header__util-box--is-open';
+
+			$btnUtilOpen.on('click', function () {
+				$opggUtil.toggleClass(openClass);
+			})
+		})();
+
+			(function(){
+				var $search = $('.c-playersearch'),
+					$input = $search.find('.c-playersearch__input-text'),
+					$result = $search.find('.c-playerresult'),
+					expendClass = 'c-playerresult--is-expend';
+				$input.on('focus', function (e) {
+					var _this = $(this),
+						$thisResult = _this.closest('.c-playersearch').find('.c-playerresult');
+					$thisResult.addClass(expendClass);
+				});
+				$search.on('click', function(e){
+					e.stopPropagation();
+				});
+				$(document).on('click', function(e){
+					$result.removeClass(expendClass);
+				});
+
+
+			})();
+	});
+
+        $(function(){
+		var init = function(){
+            $('.opgg-language__list').on('click', function(event){
+                setLocale(event);
+                var defaultServer = 'NA';
+
+                $(event.target).startLoading({
+                    maxHeight: 15
+                });
+
+                $.OP.GG.layout.regionLanguage.cookie.seti18n(getCurrentLocale());
+
+                window.location.reload();
+            });
+
+            $(".opgg-language__open-short").html(searchLocaleElement(getCurrentLocale()).find('span').html());
+
+            $("html body").on("click", function(e) {
+                var $games = $(e.target).closest(".opgg-header__navi-open");
+                var $language = $(e.target).closest(".opgg-language__open");
+                $(".opgg-header__navi-box")[$games.length ? "toggle" : "hide"]();
+                // $(".opgg-language__box")[$language.length ? "toggle" : "hide"]();
+            });
+        },
+        getCurrentLocale = function(){
+            return $('.opgg-language__item--is-active').data('locale');
+        },
+        searchLocaleElement = function(locale){
+            if (locale === undefined) {
+                locale = getCurrentLocale();
+            }
+
+            return $('.opgg-language__list').find('.opgg-language__item[data-locale=' + locale + ']');
+        },
+        setLocale = function(event){
+            var locale = undefined;
+            if (event) {
+                var $item = $(event.target).closest('.opgg-language__item');
+                locale = $item.data('locale');
+                $('.opgg-language__item').removeClass('opgg-language__item--is-active');
+                $item.addClass('opgg-language__item--is-active');
+            }
+            $('.opgg-language__open-short')
+                .html(
+                    searchLocaleElement(locale)
+                        .find('span')
+                        .html()
+                );
+        };
+        init();
+	});
+
+    // $(function(){
+    //     var huntersarena = function() {
+    //         $('.opgg-header__huntersarena-icon-btn').hover(function() {
+    //             $('.opgg-header__huntersarena-box').show();
+    //         }, function() {
+    //           $('.opgg-header__huntersarena-box').hide();
+    //         });
+    //
+    //         $('.opgg-header__huntersarena-box').hover(function() {
+    //             $('.opgg-header__huntersarena-box').show();
+    //         }, function() {
+    //             $('.opgg-header__huntersarena-box').hide();
+    //         });
+    //     };
+    //     huntersarena();
+    // });
+
+        </script><div class="l-menu"><ul class="menu"><li class="menu__item "><a href="/" class= target=>
+            Home
+                      </a></li><li class="menu__item "><a href="/champion/statistics" class= target=>
+            Champions
+                      </a></li><li class="menu__item "><a href="/statistics/" class= target=>
+            Stats
+                      </a></li><li class="menu__item menu__item--active"><a href="/ranking/" class= target=>
+            Leaderboards
+                      </a></li><li class="menu__item "><a href="/spectate/" class= target=>
+            Pro Matches
+                      </a></li><li class="menu__item "><a href="/extension/" class= target=_blank>
+            Extension
+                      </a></li><div class="gnb-list-item gnb-list-item__search" style="margin-left: auto;"><div class="gnb-list-item__select"><span class="gnb-list-item__title">NA</span><div class="gnb-list-item__list" style="display: none;"><a class="gnb-list-item__option gnb-list-item__option--active" data-server="NA" data-url="//na.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-na.png"><span>North America</span></a><a class="gnb-list-item__option " data-server="KR" data-url="//www.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-kr.png"><span>Korea</span></a><a class="gnb-list-item__option " data-server="JP" data-url="//jp.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-jp.png"><span>Japan</span></a><a class="gnb-list-item__option " data-server="EUW" data-url="//euw.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-euw.png"><span>Europe West</span></a><a class="gnb-list-item__option " data-server="EUNE" data-url="//eune.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-eune.png"><span>Europe Nordic &amp; East</span></a><a class="gnb-list-item__option " data-server="OCE" data-url="//oce.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-oce.png"><span>Oceania</span></a><a class="gnb-list-item__option " data-server="BR" data-url="//br.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-br.png"><span>Brazil</span></a><a class="gnb-list-item__option " data-server="LAS" data-url="//las.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-las.png"><span>LAS</span></a><a class="gnb-list-item__option " data-server="LAN" data-url="//lan.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-lan.png"><span>LAN</span></a><a class="gnb-list-item__option " data-server="RU" data-url="//ru.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-ru.png"><span>Russia</span></a><a class="gnb-list-item__option " data-server="TR" data-url="//tr.op.gg" href="javascript:;"><img src="//opgg-static.akamaized.net/css3/sprite/images/regionFlag-tr.png"><span>Turkey</span></a></div></div><form action="/summoner/" method="get" autocomplete="off"><input type="text" class="gnb-list-item__input" name="userName" placeholder="Name1, Name2, ..."><button><img height="14" src="//opgg-static.akamaized.net/images/gnb/svg/00-icon-gg.svg"></button><div class="summoner-search-history gnb-summoner-search-history" style="display: none;"><div class="tabWrap"><ul class="summoner-search-history__title tabHeaders"><li class="tabHeader active" data-tab-show-class="summoner-search-history--recent"><a href="javascript:;">Recent Search</a></li><li class="tabHeader" data-tab-show-class="summoner-search-history--favorite"><a href="javascript:;">Favorites</a></li></ul><div class="tabItems"><div class="tabItem summoner-search-history--recent"><div class="RecentSummonerListWrap"><div class="summoner-search-history__list RecentSummonerList"></div><div class="summoner-search-history__message NotFound"><span><img class="Image" height="16" src="//opgg-static.akamaized.net/images/site/icon-history-info@2x.png">There is no summoner you have seen recently.</span></div></div></div><div class="tabItem summoner-search-history--favorite"><div class="FavoriteSummonerListWrap"><div class="summoner-search-history__list FavoriteSummonerList"></div><div class="summoner-search-history__message NotFound"><span><img class="Image" height="16" src="//opgg-static.akamaized.net/images/site/icon-history-info@2x.png">Add your <i class='__spSite __spSite-100'></i> favorite summoner for easy updates on the latest stats.</span></div></div></div></div></div></div></form></div></ul></div><script>
+            $(function () {
+              var init = function () {
+									$("html body").on("click", function(e) {
+										var $dom = $(e.target).closest(".gnb-list-item__select");
+										$(".gnb-list-item__list")[$dom.length ? "toggle" : "hide"]();
+									})
+									$(".gnb-list-item__list").on("click" ,function(e) {
+										window.location.href = $(e.target.closest(".gnb-list-item__option")).data("url");
+																			});
+
+									$(".gnb-list-item__select").click(function() {
+									});
+
+									
+                },
+                getCurrentServer = function () {
+                  return $('.gnb-list-item__option--active').data('server');
+                };
+              init();
+            });
+          </script><div class="l-container">        
+			<div class="life-owner LifeOwnerOtherMenuTopCenter">
+			<!-- OP.GG 2 - 970x250 Fixed (5ba366a846e0fb0001bca397) - 970x250 - Place in <BODY> of page where ad should appear -->
+        <div class="vm-placement" data-id="5ba366a846e0fb0001bca397" data-display-type="atf-leaderboard" style="width:970px;height:250px"></div>
+        <!-- / OP.GG 2 - 970x250 Fixed (5ba366a846e0fb0001bca397) -->
+		</div>
+		<div class="PageHeaderWrap">
+		<div class="Menu">
+			<ol class="MenuList">
+				<li class="Item active">
+					<a href="/ranking/ladder" class="Link">Leaderboards</a>
+				</li>
+				<li class="Item ">
+					<a href="/ranking/champions" class="Link">Champions</a>
+				</li>
+				<li class="Item ">
+					<a href="/ranking/level" class="Link">Level</a>
+				</li>
+			</ol>
+							<div class="Actions">
+					<div class="SearchItem">
+						<form id="search_summoner" class="FormItem" action="/ranking/ladder/" method="get">
+							<div class="InputText">
+								<input type="text" class="Input" placeholder="Summoner Name" name="summonerName" value="">
+							</div>
+							<button class="Button SemiRound Blue" type="submit">Search</button>
+						</form>
+					</div>
+				</div>
+								</div>
+					<div class="PageDescription">
+									<span class="Text">There are currently 1,788,840 summoners on Summoner&#039;s Rift</span>
+								<small class="Small">Displaying summoners that are bronze or above. Rankings are updated periodically.</small>
+			</div>
+				
+			</div>
+
+<div class="LadderRankingLayoutWrap">
+	<div class="LadderRankingLayout">
+		<div class="ContentWrap">
+				<div class="Content">
+					<table class="ranking-table"><colgroup><col width="100"><col width="230"><col width="90"><col width="90"><col width="90"><col width="198"></colgroup><thead><tr><th class="ranking-table__header"></th><th class="ranking-table__header">Summoners</th><th class="ranking-table__header">Tier</th><th class="ranking-table__header">LP</th><th class="ranking-table__header">Level</th><th class="ranking-table__header">Win Ratio</th></tr></thead><tbody><tr class="ranking-table__row " id="summoner-40514019"><td class="ranking-table__cell ranking-table__cell--rank">59201</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=boogieoogie"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4244.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>boogieoogie</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									106
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 87%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">2</div></div><span class="winratio__text">87%</span></div></td></tr><tr class="ranking-table__row " id="summoner-105748221"><td class="ranking-table__cell ranking-table__cell--rank">59202</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=john+from+texas"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4050.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>john from texas</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									43
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 76%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">4</div></div><span class="winratio__text">76%</span></div></td></tr><tr class="ranking-table__row " id="summoner-31894938"><td class="ranking-table__cell ranking-table__cell--rank">59203</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=INsatori"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3886.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>INsatori</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									69
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 76%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">4</div></div><span class="winratio__text">76%</span></div></td></tr><tr class="ranking-table__row " id="summoner-55870075"><td class="ranking-table__cell ranking-table__cell--rank">59204</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=LIttle+Meowow"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3795.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>LIttle Meowow</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									121
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 68%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">6</div></div><span class="winratio__text">68%</span></div></td></tr><tr class="ranking-table__row " id="summoner-30215253"><td class="ranking-table__cell ranking-table__cell--rank">59205</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Nolan"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon585.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Nolan</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									101
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 62%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">8</div></div><span class="winratio__text">62%</span></div></td></tr><tr class="ranking-table__row " id="summoner-39989517"><td class="ranking-table__cell ranking-table__cell--rank">59206</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Yun+haneul"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3860.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Yun haneul</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									50
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 62%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">8</div></div><span class="winratio__text">62%</span></div></td></tr><tr class="ranking-table__row " id="summoner-47381324"><td class="ranking-table__cell ranking-table__cell--rank">59207</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=DeSieges"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon23.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>DeSieges</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									66
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 59%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">59%</span></div></td></tr><tr class="ranking-table__row " id="summoner-105222899"><td class="ranking-table__cell ranking-table__cell--rank">59208</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Oral+Destroyer"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4081.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Oral Destroyer</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									142
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 41%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">19</div></div><span class="winratio__text">41%</span></div></td></tr><tr class="ranking-table__row " id="summoner-22263433"><td class="ranking-table__cell ranking-table__cell--rank">59209</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=C%C3%A9sar"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon538.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>César</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									76
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 59%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">59%</span></div></td></tr><tr class="ranking-table__row " id="summoner-23517737"><td class="ranking-table__cell ranking-table__cell--rank">59210</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Roondas"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon783.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Roondas</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									137
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 81%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">3</div></div><span class="winratio__text">81%</span></div></td></tr><tr class="ranking-table__row " id="summoner-69764124"><td class="ranking-table__cell ranking-table__cell--rank">59211</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Mr+Jue"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon937.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Mr Jue</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									242
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 59%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">59%</span></div></td></tr><tr class="ranking-table__row " id="summoner-50460869"><td class="ranking-table__cell ranking-table__cell--rank">59212</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Meme+Oshino"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4379.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Meme Oshino</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									159
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 81%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">3</div></div><span class="winratio__text">81%</span></div></td></tr><tr class="ranking-table__row " id="summoner-47581440"><td class="ranking-table__cell ranking-table__cell--rank">59213</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=NYmacaron"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4021.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>NYmacaron</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									149
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 72%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">5</div></div><span class="winratio__text">72%</span></div></td></tr><tr class="ranking-table__row " id="summoner-73158530"><td class="ranking-table__cell ranking-table__cell--rank">59214</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Summer+Moon"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3005.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Summer Moon</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									162
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 45%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">16</div></div><span class="winratio__text">45%</span></div></td></tr><tr class="ranking-table__row " id="summoner-51720943"><td class="ranking-table__cell ranking-table__cell--rank">59215</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=FeatherIess"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1422.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>FeatherIess</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									122
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 30%"></div><div class="winratio-graph__text winratio-graph__text--left">13</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">30</div></div><span class="winratio__text">30%</span></div></td></tr><tr class="ranking-table__row " id="summoner-48348170"><td class="ranking-table__cell ranking-table__cell--rank">59216</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Chairbag"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3379.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Chairbag</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									194
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">12</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-80269158"><td class="ranking-table__cell ranking-table__cell--rank">59217</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Ferris+Ganzman"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon15.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Ferris Ganzman</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									40
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 67%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">6</div></div><span class="winratio__text">67%</span></div></td></tr><tr class="ranking-table__row " id="summoner-43353866"><td class="ranking-table__cell ranking-table__cell--rank">59218</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Dannlll"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3232.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Dannlll</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									131
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 48%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">13</div></div><span class="winratio__text">48%</span></div></td></tr><tr class="ranking-table__row " id="summoner-76829834"><td class="ranking-table__cell ranking-table__cell--rank">59219</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Ambrose+K2"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon22.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Ambrose K2</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									63
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">12</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-45920364"><td class="ranking-table__cell ranking-table__cell--rank">59220</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Catjade"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1227.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Catjade</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									52
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 86%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">2</div></div><span class="winratio__text">86%</span></div></td></tr><tr class="ranking-table__row " id="summoner-43375072"><td class="ranking-table__cell ranking-table__cell--rank">59221</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Camera+Angle"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3810.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Camera Angle</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									56
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 75%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">4</div></div><span class="winratio__text">75%</span></div></td></tr><tr class="ranking-table__row " id="summoner-63479774"><td class="ranking-table__cell ranking-table__cell--rank">59222</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Platedude123"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3379.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Platedude123</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									72
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 52%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">11</div></div><span class="winratio__text">52%</span></div></td></tr><tr class="ranking-table__row " id="summoner-27363089"><td class="ranking-table__cell ranking-table__cell--rank">59223</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Alcrazy"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4027.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Alcrazy</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									112
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 60%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">8</div></div><span class="winratio__text">60%</span></div></td></tr><tr class="ranking-table__row " id="summoner-28465893"><td class="ranking-table__cell ranking-table__cell--rank">59224</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Kerreynor"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon539.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Kerreynor</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									78
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 48%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">13</div></div><span class="winratio__text">48%</span></div></td></tr><tr class="ranking-table__row " id="summoner-58395287"><td class="ranking-table__cell ranking-table__cell--rank">59225</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Vincent+OoO"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3808.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Vincent OoO</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									42
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 55%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">10</div></div><span class="winratio__text">55%</span></div></td></tr><tr class="ranking-table__row " id="summoner-71299337"><td class="ranking-table__cell ranking-table__cell--rank">59226</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Explosive+Shot"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon745.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Explosive Shot</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									44
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 57%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">57%</span></div></td></tr><tr class="ranking-table__row " id="summoner-40780861"><td class="ranking-table__cell ranking-table__cell--rank">59227</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=buttvirg%C3%AEn"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3804.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>buttvirgîn</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									139
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 57%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">57%</span></div></td></tr><tr class="ranking-table__row " id="summoner-34099629"><td class="ranking-table__cell ranking-table__cell--rank">59228</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=BroImBetterThanU"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon978.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>BroImBetterThanU</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									235
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 57%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">57%</span></div></td></tr><tr class="ranking-table__row " id="summoner-45502950"><td class="ranking-table__cell ranking-table__cell--rank">59229</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Choi+Jin+r%C3%AC"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3019.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Choi Jin rì</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									280
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 57%"></div><div class="winratio-graph__text winratio-graph__text--left">12</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">57%</span></div></td></tr><tr class="ranking-table__row " id="summoner-50634460"><td class="ranking-table__cell ranking-table__cell--rank">59230</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Evolay+Imp"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3632.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Evolay Imp</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									42
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 52%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">10</div></div><span class="winratio__text">52%</span></div></td></tr><tr class="ranking-table__row " id="summoner-50539279"><td class="ranking-table__cell ranking-table__cell--rank">59231</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=jg+jg+jg+jg"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4369.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>jg jg jg jg</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									51
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 44%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">14</div></div><span class="winratio__text">44%</span></div></td></tr><tr class="ranking-table__row " id="summoner-64890960"><td class="ranking-table__cell ranking-table__cell--rank">59232</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Wind+Keeper"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon932.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Wind Keeper</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									146
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 65%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">6</div></div><span class="winratio__text">65%</span></div></td></tr><tr class="ranking-table__row " id="summoner-40381290"><td class="ranking-table__cell ranking-table__cell--rank">59233</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=StupidDog2Gou"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon588.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>StupidDog2Gou</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									36
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 85%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">2</div></div><span class="winratio__text">85%</span></div></td></tr><tr class="ranking-table__row " id="summoner-41184867"><td class="ranking-table__cell ranking-table__cell--rank">59234</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=ilyall"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4378.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>ilyall</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									101
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 47%"></div><div class="winratio-graph__text winratio-graph__text--left">9</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">10</div></div><span class="winratio__text">47%</span></div></td></tr><tr class="ranking-table__row " id="summoner-51001762"><td class="ranking-table__cell ranking-table__cell--rank">59235</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Captain+Durex"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon782.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Captain Durex</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									150
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 55%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">55%</span></div></td></tr><tr class="ranking-table__row " id="summoner-30627654"><td class="ranking-table__cell ranking-table__cell--rank">59236</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=EoSoo"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3158.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>EoSoo</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									40
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 61%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">7</div></div><span class="winratio__text">61%</span></div></td></tr><tr class="ranking-table__row " id="summoner-38780657"><td class="ranking-table__cell ranking-table__cell--rank">59237</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=StudZoop"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1103.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>StudZoop</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									193
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 34%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">21</div></div><span class="winratio__text">34%</span></div></td></tr><tr class="ranking-table__row " id="summoner-25161316"><td class="ranking-table__cell ranking-table__cell--rank">59238</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=EHUEHAUHOHOHOHUE"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon917.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>EHUEHAUHOHOHOHUE</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									48
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 61%"></div><div class="winratio-graph__text winratio-graph__text--left">11</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">7</div></div><span class="winratio__text">61%</span></div></td></tr><tr class="ranking-table__row " id="summoner-54509262"><td class="ranking-table__cell ranking-table__cell--rank">59239</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Katsuri"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3150.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Katsuri</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									60
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 43%"></div><div class="winratio-graph__text winratio-graph__text--left">10</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">13</div></div><span class="winratio__text">43%</span></div></td></tr><tr class="ranking-table__row " id="summoner-40026327"><td class="ranking-table__cell ranking-table__cell--rank">59240</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=urwong"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3202.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>urwong</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									86
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 45%"></div><div class="winratio-graph__text winratio-graph__text--left">10</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">12</div></div><span class="winratio__text">45%</span></div></td></tr><tr class="ranking-table__row " id="summoner-47084225"><td class="ranking-table__cell ranking-table__cell--rank">59241</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Hxfzhy"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1637.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Hxfzhy</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									186
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 71%"></div><div class="winratio-graph__text winratio-graph__text--left">10</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">4</div></div><span class="winratio__text">71%</span></div></td></tr><tr class="ranking-table__row " id="summoner-20586667"><td class="ranking-table__cell ranking-table__cell--rank">59242</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=The+Twittler"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon693.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>The Twittler</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									99
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 59%"></div><div class="winratio-graph__text winratio-graph__text--left">10</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">7</div></div><span class="winratio__text">59%</span></div></td></tr><tr class="ranking-table__row " id="summoner-39066996"><td class="ranking-table__cell ranking-table__cell--rank">59243</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=MikeBossy"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>MikeBossy</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									100
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">10</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">10</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-57498336"><td class="ranking-table__cell ranking-table__cell--rank">59244</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Careless"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4379.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Careless</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									250
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 75%"></div><div class="winratio-graph__text winratio-graph__text--left">9</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">3</div></div><span class="winratio__text">75%</span></div></td></tr><tr class="ranking-table__row " id="summoner-23101081"><td class="ranking-table__cell ranking-table__cell--rank">59245</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Yoojingles"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3587.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Yoojingles</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									123
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 75%"></div><div class="winratio-graph__text winratio-graph__text--left">9</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">3</div></div><span class="winratio__text">75%</span></div></td></tr><tr class="ranking-table__row " id="summoner-35334793"><td class="ranking-table__cell ranking-table__cell--rank">59246</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Lee+Bai"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1392.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Lee Bai</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									114
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 43%"></div><div class="winratio-graph__text winratio-graph__text--left">9</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">12</div></div><span class="winratio__text">43%</span></div></td></tr><tr class="ranking-table__row " id="summoner-60402644"><td class="ranking-table__cell ranking-table__cell--rank">59247</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=inabox"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4313.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>inabox</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									160
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">9</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-23210954"><td class="ranking-table__cell ranking-table__cell--rank">59248</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=iKalbi"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4154.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>iKalbi</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									136
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 24%"></div><div class="winratio-graph__text winratio-graph__text--left">9</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">29</div></div><span class="winratio__text">24%</span></div></td></tr><tr class="ranking-table__row " id="summoner-36289781"><td class="ranking-table__cell ranking-table__cell--rank">59249</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=UsedPaperTowel"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3160.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>UsedPaperTowel</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									64
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 53%"></div><div class="winratio-graph__text winratio-graph__text--left">9</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">8</div></div><span class="winratio__text">53%</span></div></td></tr><tr class="ranking-table__row " id="summoner-64915711"><td class="ranking-table__cell ranking-table__cell--rank">59250</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Lvyxt"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4018.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Lvyxt</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									86
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 47%"></div><div class="winratio-graph__text winratio-graph__text--left">8</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">47%</span></div></td></tr><tr class="ranking-table__row " id="summoner-47699257"><td class="ranking-table__cell ranking-table__cell--rank">59251</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=CNT+N1+LeTreeOut"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3551.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>CNT N1 LeTreeOut</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									91
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 47%"></div><div class="winratio-graph__text winratio-graph__text--left">8</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">9</div></div><span class="winratio__text">47%</span></div></td></tr><tr class="ranking-table__row " id="summoner-22178509"><td class="ranking-table__cell ranking-table__cell--rank">59252</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=chaemagic21"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1110.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>chaemagic21</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									153
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 44%"></div><div class="winratio-graph__text winratio-graph__text--left">8</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">10</div></div><span class="winratio__text">44%</span></div></td></tr><tr class="ranking-table__row " id="summoner-50953790"><td class="ranking-table__cell ranking-table__cell--rank">59253</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=TopLaneLover"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon688.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>TopLaneLover</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									82
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">7</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">7</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-58480362"><td class="ranking-table__cell ranking-table__cell--rank">59254</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=vILOVEYOUv"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4233.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>vILOVEYOUv</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									184
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 60%"></div><div class="winratio-graph__text winratio-graph__text--left">6</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">4</div></div><span class="winratio__text">60%</span></div></td></tr><tr class="ranking-table__row " id="summoner-31994112"><td class="ranking-table__cell ranking-table__cell--rank">59255</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=NastyNidalee"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4091.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>NastyNidalee</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									149
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 21%"></div><div class="winratio-graph__text winratio-graph__text--left">4</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">15</div></div><span class="winratio__text">21%</span></div></td></tr><tr class="ranking-table__row " id="summoner-76019253"><td class="ranking-table__cell ranking-table__cell--rank">59256</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=MarceloHQ"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon26.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>MarceloHQ</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Diamond 4
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										0 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									44
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 36%"></div><div class="winratio-graph__text winratio-graph__text--left">4</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">7</div></div><span class="winratio__text">36%</span></div></td></tr><tr class="ranking-table__row " id="summoner-23440869"><td class="ranking-table__cell ranking-table__cell--rank">59257</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=DGKONG"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3860.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>DGKONG</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									333
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">830</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">841</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-35409642"><td class="ranking-table__cell ranking-table__cell--rank">59258</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=verdelegend"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon22.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>verdelegend</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									297
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">780</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">752</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-95460877"><td class="ranking-table__cell ranking-table__cell--rank">59259</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=VN001"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4022.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>VN001</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									169
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">761</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">754</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-92649580"><td class="ranking-table__cell ranking-table__cell--rank">59260</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=made+in++BRAZlL"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>made in  BRAZlL</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									220
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">739</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">706</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-35623803"><td class="ranking-table__cell ranking-table__cell--rank">59261</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=pzippy"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3587.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>pzippy</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									145
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">718</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">694</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-67882636"><td class="ranking-table__cell ranking-table__cell--rank">59262</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=ICR"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon2088.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>ICR</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									217
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">693</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">680</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-57691156"><td class="ranking-table__cell ranking-table__cell--rank">59263</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=%CB%87+aaron"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4022.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>ˇ aaron</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									203
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">688</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">675</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-82902503"><td class="ranking-table__cell ranking-table__cell--rank">59264</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Vi+Fisting+Annie"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3022.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Vi Fisting Annie</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									309
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">683</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">675</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-46807"><td class="ranking-table__cell ranking-table__cell--rank">59265</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=soywaifu"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1393.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>soywaifu</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										78 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									184
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">666</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">671</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-50885112"><td class="ranking-table__cell ranking-table__cell--rank">59266</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=MeazyMeaz"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon606.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>MeazyMeaz</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									142
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 52%"></div><div class="winratio-graph__text winratio-graph__text--left">609</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">567</div></div><span class="winratio__text">52%</span></div></td></tr><tr class="ranking-table__row " id="summoner-21258091"><td class="ranking-table__cell ranking-table__cell--rank">59267</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=A+black+man"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4203.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>A black man</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									241
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">609</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">588</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-23282748"><td class="ranking-table__cell ranking-table__cell--rank">59268</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Lega%C3%A7y"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3369.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Legaçy</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									279
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 49%"></div><div class="winratio-graph__text winratio-graph__text--left">588</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">611</div></div><span class="winratio__text">49%</span></div></td></tr><tr class="ranking-table__row " id="summoner-21011856"><td class="ranking-table__cell ranking-table__cell--rank">59269</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=warmonks"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon580.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>warmonks</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									267
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">581</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">572</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-77251094"><td class="ranking-table__cell ranking-table__cell--rank">59270</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=PRJ+Yasuo"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1155.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>PRJ Yasuo</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									335
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">577</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">580</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-72141383"><td class="ranking-table__cell ranking-table__cell--rank">59271</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=DIE+Y0UNG"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1640.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>DIE Y0UNG</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									222
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">566</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">559</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-21302004"><td class="ranking-table__cell ranking-table__cell--rank">59272</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=wegs"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon898.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>wegs</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									414
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 49%"></div><div class="winratio-graph__text winratio-graph__text--left">544</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">559</div></div><span class="winratio__text">49%</span></div></td></tr><tr class="ranking-table__row " id="summoner-102005966"><td class="ranking-table__cell ranking-table__cell--rank">59273</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=saberrr"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4100.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>saberrr</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									123
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 53%"></div><div class="winratio-graph__text winratio-graph__text--left">527</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">475</div></div><span class="winratio__text">53%</span></div></td></tr><tr class="ranking-table__row " id="summoner-100833484"><td class="ranking-table__cell ranking-table__cell--rank">59274</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Exponentz2"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4027.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Exponentz2</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									128
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">500</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">487</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-90700092"><td class="ranking-table__cell ranking-table__cell--rank">59275</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=N%C3%83I+V+1997+12%C3%965"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4021.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>NÃI V 1997 12Ö5</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									240
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 52%"></div><div class="winratio-graph__text winratio-graph__text--left">489</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">445</div></div><span class="winratio__text">52%</span></div></td></tr><tr class="ranking-table__row " id="summoner-57531639"><td class="ranking-table__cell ranking-table__cell--rank">59276</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Ravensman2"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4313.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Ravensman2</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									215
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">486</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">463</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-30154491"><td class="ranking-table__cell ranking-table__cell--rank">59277</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=LunchBoySupreme"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3781.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>LunchBoySupreme</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									191
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">483</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">483</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-75779476"><td class="ranking-table__cell ranking-table__cell--rank">59278</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=H%C3%B8mo+Erectus"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4357.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Hømo Erectus</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									265
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">478</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">454</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-32264723"><td class="ranking-table__cell ranking-table__cell--rank">59279</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=ugotnosauce"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon508.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>ugotnosauce</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									150
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">471</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">451</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-48586269"><td class="ranking-table__cell ranking-table__cell--rank">59280</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=oIItii"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4086.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>oIItii</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									173
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 49%"></div><div class="winratio-graph__text winratio-graph__text--left">465</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">480</div></div><span class="winratio__text">49%</span></div></td></tr><tr class="ranking-table__row " id="summoner-38793055"><td class="ranking-table__cell ranking-table__cell--rank">59281</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=case+collecter"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4275.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>case collecter</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									261
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">462</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">463</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-60266627"><td class="ranking-table__cell ranking-table__cell--rank">59282</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=coach+me+daddy"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4379.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>coach me daddy</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									341
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">459</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">442</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-301425"><td class="ranking-table__cell ranking-table__cell--rank">59283</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Chipp0"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4090.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Chipp0</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									177
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">456</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">431</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-34088436"><td class="ranking-table__cell ranking-table__cell--rank">59284</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=pass%C4%B1on"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4372.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>passıon</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									316
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 49%"></div><div class="winratio-graph__text winratio-graph__text--left">449</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">465</div></div><span class="winratio__text">49%</span></div></td></tr><tr class="ranking-table__row " id="summoner-100842364"><td class="ranking-table__cell ranking-table__cell--rank">59285</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=KnarfLoL"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3523.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>KnarfLoL</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									118
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">440</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">431</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-262815"><td class="ranking-table__cell ranking-table__cell--rank">59286</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=ChickenWalker"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4379.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>ChickenWalker</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									124
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">436</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">428</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-44064074"><td class="ranking-table__cell ranking-table__cell--rank">59287</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Havochad+Legolas"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon1442.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Havochad Legolas</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									291
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">434</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">421</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-100809364"><td class="ranking-table__cell ranking-table__cell--rank">59288</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=M7O7M"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4375.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>M7O7M</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									94
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 52%"></div><div class="winratio-graph__text winratio-graph__text--left">427</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">398</div></div><span class="winratio__text">52%</span></div></td></tr><tr class="ranking-table__row " id="summoner-25368407"><td class="ranking-table__cell ranking-table__cell--rank">59289</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=lostbois"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3505.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>lostbois</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									176
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">426</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">414</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-73042256"><td class="ranking-table__cell ranking-table__cell--rank">59290</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Pryd%C4%99+"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4072.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Prydę </span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									262
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 49%"></div><div class="winratio-graph__text winratio-graph__text--left">422</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">432</div></div><span class="winratio__text">49%</span></div></td></tr><tr class="ranking-table__row " id="summoner-77341058"><td class="ranking-table__cell ranking-table__cell--rank">59291</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=2200+Ryze+M1d"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4357.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>2200 Ryze M1d</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									265
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">418</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">420</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-48949662"><td class="ranking-table__cell ranking-table__cell--rank">59292</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=191+Divonte"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4050.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>191 Divonte</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									176
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 52%"></div><div class="winratio-graph__text winratio-graph__text--left">415</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">390</div></div><span class="winratio__text">52%</span></div></td></tr><tr class="ranking-table__row " id="summoner-98280501"><td class="ranking-table__cell ranking-table__cell--rank">59293</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=200M+Agility+Exp"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4217.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>200M Agility Exp</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									114
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 49%"></div><div class="winratio-graph__text winratio-graph__text--left">412</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">427</div></div><span class="winratio__text">49%</span></div></td></tr><tr class="ranking-table__row " id="summoner-19897905"><td class="ranking-table__cell ranking-table__cell--rank">59294</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Mr+Wyatt"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon522.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Mr Wyatt</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									158
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 49%"></div><div class="winratio-graph__text winratio-graph__text--left">411</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">421</div></div><span class="winratio__text">49%</span></div></td></tr><tr class="ranking-table__row " id="summoner-83171854"><td class="ranking-table__cell ranking-table__cell--rank">59295</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=TerranEmpire"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon7.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>TerranEmpire</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									369
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">408</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">409</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-65380024"><td class="ranking-table__cell ranking-table__cell--rank">59296</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=albyyyyy"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3478.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>albyyyyy</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									149
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">404</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">405</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-19168511"><td class="ranking-table__cell ranking-table__cell--rank">59297</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=FishUnit"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon22.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>FishUnit</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									117
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 50%"></div><div class="winratio-graph__text winratio-graph__text--left">404</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">400</div></div><span class="winratio__text">50%</span></div></td></tr><tr class="ranking-table__row " id="summoner-25080161"><td class="ranking-table__cell ranking-table__cell--rank">59298</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=%CB%86%CB%89%CB%87%CB%89%CB%86"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon3152.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>ˆˉˇˉˆ</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									178
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">403</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">383</div></div><span class="winratio__text">51%</span></div></td></tr><tr class="ranking-table__row " id="summoner-40326625"><td class="ranking-table__cell ranking-table__cell--rank">59299</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=n1dd"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon7.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>n1dd</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									103
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 53%"></div><div class="winratio-graph__text winratio-graph__text--left">398</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">359</div></div><span class="winratio__text">53%</span></div></td></tr><tr class="ranking-table__row " id="summoner-36991506"><td class="ranking-table__cell ranking-table__cell--rank">59300</td><td class="select_summoner ranking-table__cell ranking-table__cell--summoner"><a href="//na.op.gg/summoner/userName=Zander29"><img src="//opgg-static.akamaized.net/images/profile_icons/profileIcon4379.jpg?image=c_scale,w_38&amp;v=1518361200" onerror="this.src='//opgg-static.akamaized.net/images/profile_icons/profileIcondefault.jpg';"><span>Zander29</span></a></td><td class="ranking-table__cell ranking-table__cell--tier">
+										Platinum 1
+									</td><td class="ranking-table__cell ranking-table__cell--lp">
+										100 LP
+									</td><td class="ranking-table__cell ranking-table__cell--level">
+									198
+								</td><td class="ranking-table__cell ranking-table__cell--winratio"><div class="winratio"><div class="winratio-graph"><div class="winratio-graph__fill winratio-graph__fill--left" style="width: 51%"></div><div class="winratio-graph__text winratio-graph__text--left">395</div><div class="winratio-graph__fill winratio-graph__fill--right"></div><div class="winratio-graph__text winratio-graph__text--right">384</div></div><span class="winratio__text">51%</span></div></td></tr></tbody></table><div class="ranking-pagination"><ul class="ranking-pagination__list"><li class="ranking-pagination__item ranking-pagination__item--arrow"><a href="/ranking/ladder/page=592">◀</a></li><li class="ranking-pagination__item "><a href="/ranking/ladder/page=589">589</a></li><li class="ranking-pagination__item "><a href="/ranking/ladder/page=590">590</a></li><li class="ranking-pagination__item "><a href="/ranking/ladder/page=591">591</a></li><li class="ranking-pagination__item "><a href="/ranking/ladder/page=592">592</a></li><li class="ranking-pagination__item ranking-pagination__item--disable"><a href="javascript:;">593</a></li><li class="ranking-pagination__item "><a href="/ranking/ladder/page=594">594</a></li><li class="ranking-pagination__item "><a href="/ranking/ladder/page=595">595</a></li><li class="ranking-pagination__item ranking-pagination__item--arrow "><a href="/ranking/ladder/page=596">▶</a></li></ul><div class="ranking-pagination__desc"><span>#59,201 ~ #59,300</span>
+												/ Total <span>1,788,840</span> Summoners
+					</div></div>			</div>
+		</div>
+	</div>
+</div>
+			<div class="life-owner BigLifeOwner">
+			<!-- Venatus Market v3 - OP.GG - 728x90 Dynamic -->
+<div class="vm-placement" data-id="5a84644f46e0fb0001d74d3c"></div>
+<!-- / Venatus Market v3 - OP.GG - 728x90 Dynamic -->
+		</div>
+		            </div><div class="l-footer"><div class="footer"><ul class="footer__links"><li class="footer__links__item"><a href="/about/">About OP.GG</a></li><li class="footer__links__item"><a href="/about/logos">Logo History</a></li><li class="footer__links__item"><b><a href="/about/privacy/">Privacy Policy</a></b></li><li class="footer__links__item"><a target="_blank" href="https://opgg.helpscoutdocs.com/collection/1-opgg">Help</a></li><li class="footer__links__item"><a href="mailto:contact@op.gg">Business</a></li><li class="footer__links__item"><a href="mailto:ads@op.gg">Advertise</a></li><li class="footer__links__item"><a href="mailto:service@op.gg">Feedback</a></li><li class="footer__links__item"><a href="http://play.overwolf.com/opgg/" target="_blank" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'ClkOWFooter', {Type: 'Text'});">Download Overwolf</a></li></ul><div class="footer__copyright">
+                        &copy; 2012-2019
+                        OP.GG.
+                                                    OP.GG isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing
+                            League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+                                            </div><ul class="footer__sns"><li class="footer__sns__item footer__sns__item--twitter"><a href="http://twitter.com/globalopgg/" target="_blank"><i>Twitter</i></a></li><li class="footer__sns__item footer__sns__item--instagram"><a href="https://www.instagram.com/opgginc/" target="_blank"><i>Instagram</i></a></li><li class="footer__sns__item footer__sns__item--facebook"><a href="https://www.facebook.com/lolopgg/" target="_blank"><i>Facebook</i></a></li><li class="footer__sns__item footer__sns__item--overwolf"><a href="http://play.overwolf.com/opgg/" target="_blank" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'ClkOWFooter', {Type: 'Icon'});"><i>Overwolf</i></a></li></ul></div></div></div>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXXJDMH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37377845-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-37377845-1');
+	gtag('config', 'UA-140073778-1');
+	</script>
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+	if (!wcs_add) var wcs_add = {};
+	wcs_add["wa"] = "55c48ac9e22bec";
+	wcs_do();
+</script>
+	<!--[if gte IE 9]><!-->
+	<script>!function(e, o, n){
+			window.HSCW = o, window.HS = n, n.beacon = n.beacon || {};
+			var t = n.beacon;
+			t.userConfig = {}, t.readyQueue = [], t.config = function(e){
+				this.userConfig = e
+			}, t.ready = function(e){
+				this.readyQueue.push(e)
+			}, o.config = {
+				icon: 'message',
+				color: '#1d2e51',
+				docs: {enabled:(BrowserDetect.browser === 'Chrome') ? !0 : !1, baseUrl: '//opgg.helpscoutdocs.com/'},
+				contact: {enabled: !0, formId: "57ee6a3e-4d51-11e6-aae8-0a7d6919297d"},
+				translation: {
+					attachFileLabel: 'File'
+				},
+				attachment: true,
+			};
+			var r = e.getElementsByTagName("script")[0], c = e.createElement("script");
+			c.type = "text/javascript", c.async = !0, c.src = "https://djtflbt20bdde.cloudfront.net/", r.parentNode.insertBefore(c, r)
+		}(document, window.HSCW || {}, window.HS || {});</script>
+	<script>
+			if(BrowserDetect.browser === 'Chrome') {
+				HS.beacon.config({
+					icon: 'message',
+					color: '#1d2e51',
+					translation: {
+						attachFileLabel: 'File'
+					},
+					topics: [
+						{val: 'summonerPage', label: 'Summoner page'},
+						// {val: 'mmr', label: 'MMR' },
+						{val: 'proMatches', label: 'Pro Matches'},
+						{val: 'champions', label: 'Champions'},
+						{val: 'Mobile', label: 'Mobile'},
+						{val: 'Membership', label: 'Membership'},
+						{val: 'others', label: 'Others'},
+					],
+					attachment: true,
+				});
+				HS.beacon.ready(function() {
+	  									HS.beacon['suggest']([
+						'5b209ecf2c7d3a0fa9a2eb7f',
+						'5b209f8f2c7d3a0fa9a2eb81',
+						'5b209f222c7d3a0fa9a2eb80',
+						'5b20a3662c7d3a0fa9a2eb90',
+						'5b209fda2c7d3a0fa9a2eb82',
+						'5b20a0182c7d3a0fa9a2eb87',
+					]);
+	  								})
+			}
+	</script>
+	<!--<![endif]-->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8159f4d5fa","applicationID":"78249260","transactionName":"b1ZTYBdWWxVWUUZcV1YcckEWQ1oLGEBTW1NRXVYbCVZRAlJAHQ==","queueTime":0,"applicationTime":306,"atts":"QxFQFl9MSBs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+					
+		
+	<script>
+		window.lifeOnwer = function(){
+			this.randAdIdx = '1041298251';
+			this.showAd = function(element, size){
+				if (size === "skyscraper") {
+					this.showAdSkyscraper();
+					return;
+				}
+				element.innerHTML = this.getAdHTML(size);
+				element.classList.remove('vm-placement');
+			};
+
+			this.showAdSkyscraper = function(){
+				if (this.getMobileOS() !== "unknown") {
+					return;
+				}
+
+				var elementLeft = document.createElement("div");
+				elementLeft.innerHTML = this.getAdHTML("skyscraper");
+				elementLeft.setAttribute('style', 'position: absolute; left: 50%; top: 106px; margin-left: -725px;');
+				document.body.appendChild(elementLeft);
+
+				var elementRight = document.createElement("div");
+				elementRight.innerHTML = this.getAdHTML("skyscraper");
+				elementRight.setAttribute('style', 'position: absolute; right: 50%; top: 106px; margin-right: -725px;');
+				document.body.appendChild(elementRight);
+
+				$(elementRight).scrollToFixed({
+					marginTop: 60
+				});
+			};
+
+			this.getAdHTML = function(size){
+				var lang = (this.getLang() === 'ko_KR' ? 'ko' : 'en');
+				return "<a href=\"" + this.getAdLink(this.adIndex) + "\" target=\"_blank\" class=\"lifeOnwer-" + randAdIdx + "\">" +
+					"<img src='//opgg-static.akamaized.net/images/lifeowner/opgg/" + lang + "/" + adIndex + "-" + size + ".png'>" +
+					"</a>";
+			};
+			this.getAdLink = function(adIndex){
+				var linkKey = this.getMobileOS() + '-' + adIndex;
+				switch (linkKey) {
+					case "Android-1":
+						return "market://details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner01%26utm_content%3Dapp";
+					case "Android-2":
+						return "market://details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner02%26utm_content%3Dlol";
+					case "Android-3":
+						return "market://details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3banner03%26utm_content%3Dpubg";
+					case "unknown-1":
+						return "https://play.google.com/store/apps/details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner01%26utm_content%3Dapp";
+					case "unknown-2":
+						return "https://play.google.com/store/apps/details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner02%26utm_content%3Dlol";
+					case "unknown-3":
+						return "https://play.google.com/store/apps/details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner03%26utm_content%3Dpubg";
+					default:
+						return "itms-apps://itunes.apple.com/kr/app/apple-store/id605722237";
+				}
+			};
+			this.getMobileOS = function(){
+				var userAgent = navigator.userAgent || navigator.vendor;
+
+				if (/android/i.test(userAgent)) {
+					return "Android";
+				}
+
+				if (/iPad|iPhone|iPod/.test(userAgent)) {
+					return "iOS";
+				}
+
+				return "unknown";
+			};
+			this.getLang = function(){
+				return document.documentElement.lang || "en";
+			};
+
+			this.slots = [
+				{
+					'id': '5a84644f46e0fb0001d74d3c',
+					'size': '970x90'
+				},
+				{
+					'id': '5a84640c46e0fb0001fc3bb0',
+					'size': '300x250'
+				},
+				{
+					'id': '5a8462a746e0fb0001bf35aa',
+					'size': 'skyscraper'
+				},
+			];
+			this.getCookie = function(name){
+				var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+				if (match) return match[2];
+			};
+			this.bindClickEvent = function(){
+				$(".lifeOnwer-" + randAdIdx).click(function(evt){
+					$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Opgg', 'ClickAd', {
+						Location: location_,
+						subLocation: subLocation,
+						BannerType: adIndex
+					});
+				});
+			};
+
+			this.adIndex = Math.floor(Math.random() * (this.getMobileOS() === "iOS" ? 2 : 3)) + 1;
+			this.location_ = "ranking";
+			this.subLocation = "ladder";
+
+
+			slots.forEach(function(slot){
+				if (self.getMobileOS() === "unknown" && slot.size === "300x250") {
+					return;
+				}
+				var element = document.querySelector('.vm-placement[data-id="' + slot.id + '"]');
+				if (element) {
+					self.showAd(element, slot.size);
+				}
+			});
+			this.bindClickEvent();
+		};
+	</script>
+	<!-- Venatus Market Placement (OP.GG 2 - Rich Media  - 1x1) -->
+	<div class="vm-placement" data-id="5a8462a746e0fb0001bf35aa" data-content-width="1120" data-top-space="106" style="display:none"></div>
+	<!-- / Venatus Market Placement (OP.GG 2 - Rich Media  - 1x1) -->
+	<style>
+		.vm-skin, .vm-footer {
+			z-index: 10 !important;
+		}
+	</style>
+</body>
+</html>
+<!-- 152.3.43.43 -->
