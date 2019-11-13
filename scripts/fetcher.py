@@ -51,6 +51,9 @@ class Row:
     fiveMinuteGoldDelta = None
     wardKills = None
 
+    def format(self):
+        return ",".join([prop for prop in dir(self) if not prop.startsWith("_")])
+
 try:
     riot_key = os.environ['RIOT_API_KEY']
 except KeyError as e:
@@ -110,4 +113,6 @@ def fetchGames(summonerName):
                 r.enemyDragonKills = team["dragonKills"]
                 r.enemyInhibitorKills = team["inhibitorKills"]
 
+        # Print the row
+        print(r.format())
 
