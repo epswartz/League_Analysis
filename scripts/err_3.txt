@@ -1,0 +1,63 @@
+----- NEW RUN -----Old Dirty Men429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3204343878
+Old Dirty Men429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Old%20Dirty%20Men
+i mute u 429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3094149038
+RobertClownyJr429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3163818315
+Atik B429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matchlists/by-account/8npFgY4pEmXnRD_VeGkx4MPklvN_DMrRvHyhzDAPhtzY97Fl2XUI5uIv?queue=420&queue=430&queue=400&queue=440&queue=700
+Atik B429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Atik%20B
+Mero Furuya429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matchlists/by-account/P42sAHsnegna_iYy7C5WL8MOdLM9YkUYuLXOdqPsJwGB-6U?queue=420&queue=430&queue=400&queue=440&queue=700
+Mero Furuya429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Mero%20Furuya
+Everwhite429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3220144844
+Everwhite429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Everwhite
+rtbf33014405429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/rtbf33014405
+rtbf33014405429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/Sd0fkw49CUbh_TUcZQ3Uoy4qeZIdnckS83ylhIixrZqiyME/by-champion/60
+Mixer Auke429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3209989374
+Mixer Auke429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3207523268
+YOUR MOM GONE429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YOUR%20MOM%20GONE
+YOUR MOM GONE429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YOUR%20MOM%20GONE
+AllOutHysterics429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/q5SRCT8-6EBwGy7XxFwCCB1rIp1Y79whGPDJb28BcZr_XtA/by-champion/432
+AllOutHysterics429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/q5SRCT8-6EBwGy7XxFwCCB1rIp1Y79whGPDJb28BcZr_XtA/by-champion/98
+Starchild Soraka429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3211936839
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+mnist429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/mnist
+mnist429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/mnist
+AngelSoliloquy429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3134881756
+AngelSoliloquy429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3134095202
+Meowington 429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3144181235
+Meowington 429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/DZWHuwg9Yo9-R1nN0LGXpFwaSmAU-QcAtW3BxqreQh6Z4Tg/by-champion/89
+ZHNR CN429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3212984696
+ZHNR CN429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ZHNR%20CN
+ShreyASF429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3050533526
+ShreyASF429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3050317966
+Alpha Spartan429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3220657633
+Skipped a game for champion: 235 None
+Alpha Spartan429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/rdBHKHKtTyvyZWhTohnvFIoLIspG_eaHFfeLTo4WcTQektA/by-champion/117
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+nac swap429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3038566155
+nac swap429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3038319059
+Longg429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/7Mm87FMaq98BBZlA7rWRZs7wY3kaiNplL0H42QJ1Wex2Ips/by-champion/86
+Longg429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Longg
+DreadYaeon429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3104164829
+DreadYaeon429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/xHITuLKPGzRTHzQWWF1fwIP6Boz0B80Xh1KblVaPBgCDHS0/by-champion/61
+Chicken429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3132884623
+Berkeley Student429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Berkeley%20Student
+Bronze pIayer429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3122506500
+RAKAN BABA429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3219457685
+Skipped a game for champion: 235 None
+RNG SilverBullet429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/matches/3136429952
+Traceback (most recent call last):
+  File "fetcher.py", line 221, in <module>
+    fetchGames(n)
+  File "fetcher.py", line 91, in fetchGames
+    matchObject = watcher.match.by_id(REGION_NA, matchId)
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/MatchApiV4.py", line 30, in by_id
+    return self._raw_request(self.by_id.__name__, region, url, query)
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/NamedEndpoint.py", line 29, in _raw_request
+    self._endpoint_name, method_name, region, url, query_params
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/BaseApi.py", line 23, in raw_request
+    region, endpoint_name, method_name, url, query_params
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/Handlers/RateLimit/RateLimitHandler.py", line 52, in preview_request
+    time.sleep(to_wait.total_seconds())
+KeyboardInterrupt
+     5852.30 real        22.68 user         1.31 sys

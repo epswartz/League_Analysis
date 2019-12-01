@@ -1,0 +1,43 @@
+----- NEW RUN -----Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Sorey404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/779949418
+Sorey404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/779949418
+Sorey404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/779949418
+Traceback (most recent call last):
+  File "fetcher.py", line 221, in <module>
+    fetchGames(n)
+  File "fetcher.py", line 91, in fetchGames
+    matchObject = watcher.match.by_id(REGION_NA, matchId)
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/MatchApiV4.py", line 30, in by_id
+    return self._raw_request(self.by_id.__name__, region, url, query)
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/NamedEndpoint.py", line 29, in _raw_request
+    self._endpoint_name, method_name, region, url, query_params
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/BaseApi.py", line 38, in raw_request
+    **extra
+  File "/usr/local/lib/python3.7/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/usr/local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.7/site-packages/urllib3/connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "/usr/local/lib/python3.7/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/usr/local/lib/python3.7/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+    17129.81 real       140.81 user         8.45 sys

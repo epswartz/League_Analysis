@@ -1,0 +1,30 @@
+1 Name is good: Soytuchulo
+2 Name is good: Pray Fans
+3 Name is good: Jjangkkola
+4 Name is good: YouGotOutFlayed
+5 Name is good: Ghoulguy Yorick
+6 Name is good: CE Detonator
+7 Name is good: Facebo0k
+8 Name is good: Erikku
+9 Name is good: JayKayTea
+10 Name is good: BrianjOuZ
+11 Name is good: BigBootyRiven
+12 Name is good: lollol9898
+13 Name is good: Evolution XI
+14 Name is good: Humble God Ivern
+15 Name is good: FRosT EMbRace
+16 Name is good: Hermione Pothead
+17 Name is good: iSeeYouInting
+18 Name is good: ADC GONE WILD
+Traceback (most recent call last):
+  File "scripts/testNames.py", line 42, in <module>
+    targetId = watcher.summoner.by_name(REGION_NA, name)["accountId"]
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/SummonerApiV4.py", line 46, in by_name
+    return self._raw_request(self.by_name.__name__, region, url, query)
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/NamedEndpoint.py", line 29, in _raw_request
+    self._endpoint_name, method_name, region, url, query_params
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/BaseApi.py", line 23, in raw_request
+    region, endpoint_name, method_name, url, query_params
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/Handlers/RateLimit/RateLimitHandler.py", line 52, in preview_request
+    time.sleep(to_wait.total_seconds())
+KeyboardInterrupt

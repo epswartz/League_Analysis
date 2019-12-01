@@ -1,0 +1,79 @@
+----- NEW RUN -----Soytuchulo429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Soytuchulo
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Varyn Quinn429 Client Error: Too Many Requests for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3195928594
+Jacklelj1503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3212279205
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+bookstore503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/matchlists/by-account/JyZGxBoKzDCG1SDi9-OwsUvUyg2bS6Tu6ICY8yQbEtwhIdXbJRp6ufSt?queue=420&queue=430&queue=400&queue=440&queue=700
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+SmurfWhenBan('Connection aborted.', TimeoutError(60, 'Operation timed out'))
+Too Pretty Tom404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Too%20Pretty%20Tom
+Too Pretty Tom404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Too%20Pretty%20Tom
+Too Pretty Tom404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Too%20Pretty%20Tom
+Traceback (most recent call last):
+  File "fetcher.py", line 221, in <module>
+    fetchGames(n)
+  File "fetcher.py", line 48, in fetchGames
+    targetId = watcher.summoner.by_name(REGION_NA, summonerName)["accountId"]
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/SummonerApiV4.py", line 46, in by_name
+    return self._raw_request(self.by_name.__name__, region, url, query)
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/NamedEndpoint.py", line 29, in _raw_request
+    self._endpoint_name, method_name, region, url, query_params
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/_apis/BaseApi.py", line 23, in raw_request
+    region, endpoint_name, method_name, url, query_params
+  File "/usr/local/lib/python3.7/site-packages/riotwatcher/Handlers/RateLimit/RateLimitHandler.py", line 52, in preview_request
+    time.sleep(to_wait.total_seconds())
+KeyboardInterrupt
+    32447.33 real       449.49 user        22.54 sys

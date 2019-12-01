@@ -1,0 +1,741 @@
+----- NEW RUN -----Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+andresop97503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/matches/3038117338
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205202595
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205202595
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205202595
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205092242
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205092242
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205092242
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205091918
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205091918
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/205091918
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204554713
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204554713
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204554713
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204544947
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204544947
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204544947
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204553884
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204553884
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204553884
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204563600
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204563600
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204563600
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204563276
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204563276
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/204563276
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/203794901
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/203794901
+FNNDP404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/203794901
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Mehsire503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3221241921
+Lerikin503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3220726062
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Weetpoppy503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/matches/3216306293
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Grubby Guneons503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3063057195
+Egirl piss503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/matches/3197520838
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4217689956
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4217689956
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4217689956
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4217751895
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4217751895
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4217751895
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4213848337
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4213848337
+Bradyx2213404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4213848337
+Flash 0r Die503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/matches/3159382994
+Touch My D0nger404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Touch%20My%20D0nger
+Touch My D0nger404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Touch%20My%20D0nger
+Touch My D0nger404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Touch%20My%20D0nger
+Skipped a game for champion: 235 None
+dsahu73sah503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3043327291
+I SaintLaurent I503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3214635037
+I SaintLaurent I503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3214600331
+Skipped a game for champion: 235 None
+Plutx503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3220547500
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/778968254
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/778968254
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/778968254
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776338511
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776338511
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776338511
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776335861
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776335861
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776335861
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776324978
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776324978
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776324978
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776331704
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776331704
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/776331704
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/773109665
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/773109665
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/773109665
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/766796967
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/766796967
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/766796967
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/766183992
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/766183992
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/766183992
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755760098
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755760098
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755760098
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755625128
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755625128
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755625128
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755641229
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755641229
+book worm 32404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/755641229
+Skipped a game for champion: 235 None
+SadGuy503 Server Error: Service Unavailable for url: https://na1.api.riotgames.com/lol/match/v4/matches/3105399353
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+Brimst404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4202687227
+Brimst404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4202687227
+Brimst404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4202687227
+Brimst404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4202637540
+Brimst404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4202637540
+Brimst404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4202637540
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296482332
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296482332
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296482332
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296389384
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296389384
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296389384
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296334631
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296334631
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4296334631
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4287899610
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4287899610
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4287899610
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4287854512
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4287854512
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4287854512
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4286600757
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4286600757
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4286600757
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4286575263
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4286575263
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4286575263
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282443996
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282443996
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282443996
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282411373
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282411373
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282411373
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282353617
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282353617
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282353617
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282276930
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282276930
+Taz Dlngo404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/4282276930
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265672733
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265672733
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265672733
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265662417
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265662417
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265662417
+Skipped a game for champion: 235 None
+Skipped a game for champion: 235 None
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265625533
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265625533
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265625533
+Skipped a game for champion: 235 None
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265409724
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265409724
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265409724
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265153209
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265153209
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265153209
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265149538
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265149538
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265149538
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265074134
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265074134
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265074134
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265081499
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265081499
+REDF1AG404 Client Error: Not Found for url: https://na1.api.riotgames.com/lol/match/v4/matches/265081499
+LiLBiScUiTbOoTy('Connection aborted.', TimeoutError(60, 'Operation timed out'))
+Skipped a game for champion: 235 None
+HeyImMatthew403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3135450790
+HeyImMatthew403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3135450790
+HeyImMatthew403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/match/v4/timelines/by-match/3135450790
+Hackdown Motel403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Hackdown%20Motel
+Hackdown Motel403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Hackdown%20Motel
+Hackdown Motel403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Hackdown%20Motel
+Big Pig Hoof403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Big%20Pig%20Hoof
+Big Pig Hoof403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Big%20Pig%20Hoof
+Big Pig Hoof403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Big%20Pig%20Hoof
+jg slave403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/jg%20slave
+jg slave403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/jg%20slave
+jg slave403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/jg%20slave
+4191921115403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/4191921115
+4191921115403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/4191921115
+4191921115403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/4191921115
+veroism403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/veroism
+veroism403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/veroism
+veroism403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/veroism
+DaReBiRd403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/DaReBiRd
+DaReBiRd403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/DaReBiRd
+DaReBiRd403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/DaReBiRd
+YungThugCaillou403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YungThugCaillou
+YungThugCaillou403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YungThugCaillou
+YungThugCaillou403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YungThugCaillou
+scr1pt g0d403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/scr1pt%20g0d
+scr1pt g0d403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/scr1pt%20g0d
+scr1pt g0d403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/scr1pt%20g0d
+The FB Terror403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/The%20FB%20Terror
+The FB Terror403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/The%20FB%20Terror
+The FB Terror403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/The%20FB%20Terror
+THEPHYOFPHYLISS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/THEPHYOFPHYLISS
+THEPHYOFPHYLISS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/THEPHYOFPHYLISS
+THEPHYOFPHYLISS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/THEPHYOFPHYLISS
+fortnite funny403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/fortnite%20funny
+fortnite funny403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/fortnite%20funny
+fortnite funny403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/fortnite%20funny
+Melo Cheese403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Melo%20Cheese
+Melo Cheese403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Melo%20Cheese
+Melo Cheese403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Melo%20Cheese
+YamaeTae 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YamaeTae%20
+YamaeTae 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YamaeTae%20
+YamaeTae 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YamaeTae%20
+Hemroid98403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Hemroid98
+Hemroid98403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Hemroid98
+Hemroid98403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Hemroid98
+black5pro403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/black5pro
+black5pro403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/black5pro
+black5pro403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/black5pro
+Keratin Jhin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Keratin%20Jhin
+Keratin Jhin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Keratin%20Jhin
+Keratin Jhin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Keratin%20Jhin
+this adc 5ucks403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/this%20adc%205ucks
+this adc 5ucks403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/this%20adc%205ucks
+this adc 5ucks403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/this%20adc%205ucks
+SMSSSS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SMSSSS
+SMSSSS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SMSSSS
+SMSSSS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SMSSSS
+PABL0403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PABL0
+PABL0403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PABL0
+PABL0403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PABL0
+Curlyfries403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Curlyfries
+Curlyfries403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Curlyfries
+Curlyfries403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Curlyfries
+Walkers403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Walkers
+Walkers403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Walkers
+Walkers403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Walkers
+Authority of God403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Authority%20of%20God
+Authority of God403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Authority%20of%20God
+Authority of God403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Authority%20of%20God
+MR SEX403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/MR%20SEX
+MR SEX403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/MR%20SEX
+MR SEX403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/MR%20SEX
+raymondddli403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/raymondddli
+raymondddli403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/raymondddli
+raymondddli403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/raymondddli
+BorosGuildMage403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BorosGuildMage
+BorosGuildMage403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BorosGuildMage
+BorosGuildMage403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BorosGuildMage
+LolerTheDerp403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LolerTheDerp
+LolerTheDerp403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LolerTheDerp
+LolerTheDerp403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LolerTheDerp
+Ckrest403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ckrest
+Ckrest403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ckrest
+Ckrest403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ckrest
+Peloton403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Peloton
+Peloton403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Peloton
+Peloton403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Peloton
+ShuckIez403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ShuckIez
+ShuckIez403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ShuckIez
+ShuckIez403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ShuckIez
+Shyseus403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Shyseus
+Shyseus403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Shyseus
+Shyseus403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Shyseus
+Amyndre403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Amyndre
+Amyndre403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Amyndre
+Amyndre403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Amyndre
+Unreal Goldfish403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Unreal%20Goldfish
+Unreal Goldfish403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Unreal%20Goldfish
+Unreal Goldfish403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Unreal%20Goldfish
+Ekasit403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ekasit
+Ekasit403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ekasit
+Ekasit403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ekasit
+Best Dad Africa403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Best%20Dad%20Africa
+Best Dad Africa403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Best%20Dad%20Africa
+Best Dad Africa403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Best%20Dad%20Africa
+playmaker3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/playmaker3
+playmaker3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/playmaker3
+playmaker3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/playmaker3
+Seorin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Seorin
+Seorin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Seorin
+Seorin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Seorin
+I am thorny403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20am%20thorny
+I am thorny403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20am%20thorny
+I am thorny403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20am%20thorny
+Buttman9000403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Buttman9000
+Buttman9000403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Buttman9000
+Buttman9000403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Buttman9000
+StayDripping403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/StayDripping
+StayDripping403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/StayDripping
+StayDripping403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/StayDripping
+lil toxic403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/lil%20toxic
+lil toxic403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/lil%20toxic
+lil toxic403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/lil%20toxic
+HunterkCzW403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/HunterkCzW
+HunterkCzW403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/HunterkCzW
+HunterkCzW403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/HunterkCzW
+boob of slayer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/boob%20of%20slayer
+boob of slayer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/boob%20of%20slayer
+boob of slayer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/boob%20of%20slayer
+x Urek Mazino x403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/x%20Urek%20Mazino%20x
+x Urek Mazino x403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/x%20Urek%20Mazino%20x
+x Urek Mazino x403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/x%20Urek%20Mazino%20x
+Liftin N Shiftin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Liftin%20N%20Shiftin
+Liftin N Shiftin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Liftin%20N%20Shiftin
+Liftin N Shiftin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Liftin%20N%20Shiftin
+PangGorrrrr403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PangGorrrrr
+PangGorrrrr403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PangGorrrrr
+PangGorrrrr403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PangGorrrrr
+tacere me403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tacere%20me
+tacere me403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tacere%20me
+tacere me403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tacere%20me
+Lakewater403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lakewater
+Lakewater403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lakewater
+Lakewater403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lakewater
+tIqLuci403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tIqLuci
+tIqLuci403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tIqLuci
+tIqLuci403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tIqLuci
+BiG 2403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BiG%202
+BiG 2403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BiG%202
+BiG 2403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BiG%202
+mullen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/mullen
+mullen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/mullen
+mullen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/mullen
+pls403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/pls
+pls403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/pls
+pls403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/pls
+soloq bestiality403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/soloq%20bestiality
+soloq bestiality403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/soloq%20bestiality
+soloq bestiality403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/soloq%20bestiality
+ihpphi403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ihpphi
+ihpphi403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ihpphi
+ihpphi403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ihpphi
+El Vini403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/El%20Vini
+El Vini403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/El%20Vini
+El Vini403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/El%20Vini
+Mpirical403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Mpirical
+Mpirical403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Mpirical
+Mpirical403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Mpirical
+Miss Janna  QvQ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Miss%20Janna%20%20QvQ
+Miss Janna  QvQ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Miss%20Janna%20%20QvQ
+Miss Janna  QvQ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Miss%20Janna%20%20QvQ
+Allen Chen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Allen%20Chen
+Allen Chen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Allen%20Chen
+Allen Chen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Allen%20Chen
+Cheng Fa Dui You403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cheng%20Fa%20Dui%20You
+Cheng Fa Dui You403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cheng%20Fa%20Dui%20You
+Cheng Fa Dui You403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cheng%20Fa%20Dui%20You
+CheonGIIII403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CheonGIIII
+CheonGIIII403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CheonGIIII
+CheonGIIII403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CheonGIIII
+Elitemuffin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Elitemuffin
+Elitemuffin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Elitemuffin
+Elitemuffin403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Elitemuffin
+T2 frog403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/T2%20frog
+T2 frog403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/T2%20frog
+T2 frog403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/T2%20frog
+Oilfishsbsbsb403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Oilfishsbsbsb
+Oilfishsbsbsb403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Oilfishsbsbsb
+Oilfishsbsbsb403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Oilfishsbsbsb
+WoIf403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WoIf
+WoIf403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WoIf
+WoIf403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WoIf
+P1TonyOP403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/P1TonyOP
+P1TonyOP403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/P1TonyOP
+P1TonyOP403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/P1TonyOP
+hardstick d4403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/hardstick%20d4
+hardstick d4403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/hardstick%20d4
+hardstick d4403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/hardstick%20d4
+Snowe403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Snowe
+Snowe403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Snowe
+Snowe403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Snowe
+CIRCUS CL0WN403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CIRCUS%20CL0WN
+CIRCUS CL0WN403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CIRCUS%20CL0WN
+CIRCUS CL0WN403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CIRCUS%20CL0WN
+EtherStars403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/EtherStars
+EtherStars403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/EtherStars
+EtherStars403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/EtherStars
+Biyatch403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Biyatch
+Biyatch403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Biyatch
+Biyatch403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Biyatch
+Cup Ramen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cup%20Ramen
+Cup Ramen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cup%20Ramen
+Cup Ramen403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cup%20Ramen
+Lansor403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lansor
+Lansor403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lansor
+Lansor403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lansor
+sorrymuted403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/sorrymuted
+sorrymuted403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/sorrymuted
+sorrymuted403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/sorrymuted
+NathanDrake321403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/NathanDrake321
+NathanDrake321403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/NathanDrake321
+NathanDrake321403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/NathanDrake321
+TheSourceOfSteam403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TheSourceOfSteam
+TheSourceOfSteam403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TheSourceOfSteam
+TheSourceOfSteam403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TheSourceOfSteam
+disasters70403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/disasters70
+disasters70403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/disasters70
+disasters70403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/disasters70
+The True Mexican403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/The%20True%20Mexican
+The True Mexican403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/The%20True%20Mexican
+The True Mexican403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/The%20True%20Mexican
+SonDuckGG403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SonDuckGG
+SonDuckGG403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SonDuckGG
+SonDuckGG403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SonDuckGG
+TwitchTV TheNebs403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TwitchTV%20TheNebs
+TwitchTV TheNebs403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TwitchTV%20TheNebs
+TwitchTV TheNebs403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TwitchTV%20TheNebs
+Kleanx403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Kleanx
+Kleanx403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Kleanx
+Kleanx403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Kleanx
+KillerO07403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/KillerO07
+KillerO07403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/KillerO07
+KillerO07403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/KillerO07
+Mental Destroyer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Mental%20Destroyer
+Mental Destroyer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Mental%20Destroyer
+Mental Destroyer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Mental%20Destroyer
+LoPtuck403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LoPtuck
+LoPtuck403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LoPtuck
+LoPtuck403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LoPtuck
+Ready For It403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ready%20For%20It
+Ready For It403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ready%20For%20It
+Ready For It403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ready%20For%20It
+D1 Track God403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/D1%20Track%20God
+D1 Track God403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/D1%20Track%20God
+D1 Track God403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/D1%20Track%20God
+DJ Llama403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/DJ%20Llama
+DJ Llama403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/DJ%20Llama
+DJ Llama403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/DJ%20Llama
+Nine U403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Nine%20U
+Nine U403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Nine%20U
+Nine U403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Nine%20U
+FrogGirlGaming403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/FrogGirlGaming
+FrogGirlGaming403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/FrogGirlGaming
+FrogGirlGaming403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/FrogGirlGaming
+TawanzZ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TawanzZ
+TawanzZ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TawanzZ
+TawanzZ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TawanzZ
+Namikaze M1nato403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Namikaze%20M1nato
+Namikaze M1nato403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Namikaze%20M1nato
+Namikaze M1nato403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Namikaze%20M1nato
+keviar403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/keviar
+keviar403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/keviar
+keviar403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/keviar
+Radara403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Radara
+Radara403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Radara
+Radara403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Radara
+Sneekybeeky403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Sneekybeeky
+Sneekybeeky403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Sneekybeeky
+Sneekybeeky403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Sneekybeeky
+BecomeWhat3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BecomeWhat3
+BecomeWhat3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BecomeWhat3
+BecomeWhat3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BecomeWhat3
+Slaughterfish403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Slaughterfish
+Slaughterfish403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Slaughterfish
+Slaughterfish403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Slaughterfish
+Lord MrAce403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lord%20MrAce
+Lord MrAce403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lord%20MrAce
+Lord MrAce403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Lord%20MrAce
+Vanirra403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Vanirra
+Vanirra403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Vanirra
+Vanirra403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Vanirra
+Xainx403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Xainx
+Xainx403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Xainx
+Xainx403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Xainx
+egirl mid btw403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/egirl%20mid%20btw
+egirl mid btw403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/egirl%20mid%20btw
+egirl mid btw403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/egirl%20mid%20btw
+Euphoric Mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Euphoric%20Mid
+Euphoric Mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Euphoric%20Mid
+Euphoric Mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Euphoric%20Mid
+reform mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/reform%20mid
+reform mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/reform%20mid
+reform mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/reform%20mid
+TSM Artemis403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TSM%20Artemis
+TSM Artemis403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TSM%20Artemis
+TSM Artemis403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/TSM%20Artemis
+weewei403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/weewei
+weewei403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/weewei
+weewei403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/weewei
+Zeraora403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Zeraora
+Zeraora403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Zeraora
+Zeraora403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Zeraora
+iNGTREVO403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/iNGTREVO
+iNGTREVO403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/iNGTREVO
+iNGTREVO403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/iNGTREVO
+HighIQSupportGuy403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/HighIQSupportGuy
+HighIQSupportGuy403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/HighIQSupportGuy
+HighIQSupportGuy403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/HighIQSupportGuy
+SunnyDEEE403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SunnyDEEE
+SunnyDEEE403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SunnyDEEE
+SunnyDEEE403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SunnyDEEE
+ROSC403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ROSC
+ROSC403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ROSC
+ROSC403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ROSC
+CRAZY MAN L9403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CRAZY%20MAN%20L9
+CRAZY MAN L9403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CRAZY%20MAN%20L9
+CRAZY MAN L9403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CRAZY%20MAN%20L9
+Rank1WorldTeemo403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Rank1WorldTeemo
+Rank1WorldTeemo403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Rank1WorldTeemo
+Rank1WorldTeemo403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Rank1WorldTeemo
+Ploom403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ploom
+Ploom403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ploom
+Ploom403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Ploom
+I wish u hell403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20wish%20u%20hell
+I wish u hell403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20wish%20u%20hell
+I wish u hell403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20wish%20u%20hell
+Valysta 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Valysta%20
+Valysta 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Valysta%20
+Valysta 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Valysta%20
+Soradon403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Soradon
+Soradon403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Soradon
+Soradon403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Soradon
+Cottonitio403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cottonitio
+Cottonitio403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cottonitio
+Cottonitio403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Cottonitio
+CloutlessDiana403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CloutlessDiana
+CloutlessDiana403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CloutlessDiana
+CloutlessDiana403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CloutlessDiana
+Eduardo Little403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Eduardo%20Little
+Eduardo Little403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Eduardo%20Little
+Eduardo Little403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Eduardo%20Little
+To be free403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/To%20be%20free
+To be free403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/To%20be%20free
+To be free403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/To%20be%20free
+tu puto pendejo403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tu%20puto%20pendejo
+tu puto pendejo403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tu%20puto%20pendejo
+tu puto pendejo403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/tu%20puto%20pendejo
+nutmeg akasaka403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/nutmeg%20akasaka
+nutmeg akasaka403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/nutmeg%20akasaka
+nutmeg akasaka403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/nutmeg%20akasaka
+LeTHaL Hamster403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LeTHaL%20Hamster
+LeTHaL Hamster403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LeTHaL%20Hamster
+LeTHaL Hamster403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/LeTHaL%20Hamster
+SocialCredit2Low403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SocialCredit2Low
+SocialCredit2Low403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SocialCredit2Low
+SocialCredit2Low403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SocialCredit2Low
+Asara403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Asara
+Asara403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Asara
+Asara403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Asara
+Tater Bot 3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Tater%20Bot%203
+Tater Bot 3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Tater%20Bot%203
+Tater Bot 3403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Tater%20Bot%203
+CryptiConstruct403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CryptiConstruct
+CryptiConstruct403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CryptiConstruct
+CryptiConstruct403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CryptiConstruct
+ryau403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ryau
+ryau403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ryau
+ryau403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ryau
+EarleZ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/EarleZ
+EarleZ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/EarleZ
+EarleZ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/EarleZ
+an strawberry 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/an%20strawberry%20
+an strawberry 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/an%20strawberry%20
+an strawberry 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/an%20strawberry%20
+PhD Blizzard403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PhD%20Blizzard
+PhD Blizzard403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PhD%20Blizzard
+PhD Blizzard403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/PhD%20Blizzard
+Bart O Kavanaugh403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Bart%20O%20Kavanaugh
+Bart O Kavanaugh403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Bart%20O%20Kavanaugh
+Bart O Kavanaugh403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Bart%20O%20Kavanaugh
+SHUW1403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SHUW1
+SHUW1403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SHUW1
+SHUW1403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/SHUW1
+Twtv Lathyrus403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Twtv%20Lathyrus
+Twtv Lathyrus403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Twtv%20Lathyrus
+Twtv Lathyrus403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Twtv%20Lathyrus
+BarCodeSupport403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BarCodeSupport
+BarCodeSupport403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BarCodeSupport
+BarCodeSupport403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/BarCodeSupport
+GET SMOKED403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/GET%20SMOKED
+GET SMOKED403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/GET%20SMOKED
+GET SMOKED403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/GET%20SMOKED
+Toasters Fury403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Toasters%20Fury
+Toasters Fury403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Toasters%20Fury
+Toasters Fury403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Toasters%20Fury
+RoxannevLfQ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/RoxannevLfQ
+RoxannevLfQ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/RoxannevLfQ
+RoxannevLfQ403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/RoxannevLfQ
+A Nasus Abuser 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/A%20Nasus%20Abuser%20
+A Nasus Abuser 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/A%20Nasus%20Abuser%20
+A Nasus Abuser 403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/A%20Nasus%20Abuser%20
+WWWWWWVWWWWWWWWW403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WWWWWWVWWWWWWWWW
+WWWWWWVWWWWWWWWW403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WWWWWWVWWWWWWWWW
+WWWWWWVWWWWWWWWW403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WWWWWWVWWWWWWWWW
+Xode403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Xode
+Xode403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Xode
+Xode403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Xode
+MitsubishiLancer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/MitsubishiLancer
+MitsubishiLancer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/MitsubishiLancer
+MitsubishiLancer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/MitsubishiLancer
+fFCheryl403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/fFCheryl
+fFCheryl403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/fFCheryl
+fFCheryl403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/fFCheryl
+Chancer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Chancer
+Chancer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Chancer
+Chancer403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Chancer
+ReneekKvS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ReneekKvS
+ReneekKvS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ReneekKvS
+ReneekKvS403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/ReneekKvS
+qVLorraine403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/qVLorraine
+qVLorraine403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/qVLorraine
+qVLorraine403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/qVLorraine
+marktobar2403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/marktobar2
+marktobar2403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/marktobar2
+marktobar2403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/marktobar2
+nodabkun403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/nodabkun
+nodabkun403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/nodabkun
+nodabkun403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/nodabkun
+benci20883403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/benci20883
+benci20883403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/benci20883
+benci20883403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/benci20883
+Grackstreet403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Grackstreet
+Grackstreet403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Grackstreet
+Grackstreet403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Grackstreet
+FATHER GODG1VEN403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/FATHER%20GODG1VEN
+FATHER GODG1VEN403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/FATHER%20GODG1VEN
+FATHER GODG1VEN403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/FATHER%20GODG1VEN
+Kacper66403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Kacper66
+Kacper66403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Kacper66
+Kacper66403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Kacper66
+thisthingz403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/thisthingz
+thisthingz403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/thisthingz
+thisthingz403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/thisthingz
+Bestlove Betty403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Bestlove%20Betty
+Bestlove Betty403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Bestlove%20Betty
+Bestlove Betty403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Bestlove%20Betty
+Big Daddy NutNut403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Big%20Daddy%20NutNut
+Big Daddy NutNut403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Big%20Daddy%20NutNut
+Big Daddy NutNut403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Big%20Daddy%20NutNut
+Nx Justturn403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Nx%20Justturn
+Nx Justturn403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Nx%20Justturn
+Nx Justturn403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Nx%20Justturn
+Supreme Syk403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Supreme%20Syk
+Supreme Syk403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Supreme%20Syk
+Supreme Syk403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Supreme%20Syk
+CN Bot403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CN%20Bot
+CN Bot403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CN%20Bot
+CN Bot403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CN%20Bot
+Trickster Canvas403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Trickster%20Canvas
+Trickster Canvas403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Trickster%20Canvas
+Trickster Canvas403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Trickster%20Canvas
+M hanwoo M403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/M%20hanwoo%20M
+M hanwoo M403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/M%20hanwoo%20M
+M hanwoo M403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/M%20hanwoo%20M
+Blasterboi403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Blasterboi
+Blasterboi403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Blasterboi
+Blasterboi403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Blasterboi
+KT Rolster403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/KT%20Rolster
+KT Rolster403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/KT%20Rolster
+KT Rolster403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/KT%20Rolster
+I Condemn Her403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20Condemn%20Her
+I Condemn Her403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20Condemn%20Her
+I Condemn Her403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/I%20Condemn%20Her
+YOLO Trees403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YOLO%20Trees
+YOLO Trees403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YOLO%20Trees
+YOLO Trees403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/YOLO%20Trees
+0 Skill Mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/0%20Skill%20Mid
+0 Skill Mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/0%20Skill%20Mid
+0 Skill Mid403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/0%20Skill%20Mid
+havearest403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/havearest
+havearest403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/havearest
+havearest403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/havearest
+Stout403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Stout
+Stout403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Stout
+Stout403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Stout
+CTE Drip403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CTE%20Drip
+CTE Drip403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CTE%20Drip
+CTE Drip403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/CTE%20Drip
+Empow RM403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Empow%20RM
+Empow RM403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Empow%20RM
+Empow RM403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Empow%20RM
+WhatsInTheBOOOOX403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WhatsInTheBOOOOX
+WhatsInTheBOOOOX403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WhatsInTheBOOOOX
+WhatsInTheBOOOOX403 Client Error: Forbidden for url: https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/WhatsInTheBOOOOX
+    29592.26 real       390.94 user        19.45 sys
