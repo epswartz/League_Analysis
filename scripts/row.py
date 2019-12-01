@@ -14,6 +14,7 @@ class Row:
         self.riftHerald = None
         self.firstBlood = None
         self.allySide = None
+        self.enemySide = None
         self.firstTower = None
         self.allyTowerKills = None
         self.enemyTowerKills = None
