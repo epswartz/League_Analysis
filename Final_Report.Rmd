@@ -1,0 +1,35 @@
+---
+title: "Character Class Victory Conditions in League of Legends"
+author: "Ethan Swartzentruber"
+date: "12/10/2019"
+output: pdf_document
+---
+
+# Abstract
+
+In the computer game League of Legends, players choose from 146 different characters at the start of the game. These characters are divided into six different categories by the game's developer, Riot Games (often simply called Riot). This analysis uses logistic regression in an attempt to determine to what extent this division is valid - in particular, whether the division of characters presented by Riot captures a concrete difference in victory conditions of the character classes. Although the conventional wisdom amongst the League of Legends community is that these character classes should represent a stark difference in victory condition, this analysis failed to find a statistical basis for the existence of such a difference.
+
+# Introduction
+
+League of Legends is an extremely popular 5v5 competitive strategy game. Players join a queue to be matched with other players of a comparable skill level, and at the beginning of each game, choose from a roster of 146 (as of Dec 10 2019) playable characters. Each of these characters is unique, and in the ranked 5v5 format (the format which this analysis uses data from), only one player can choose a given character in each game. These characters are divided into six classes by Riot Games, the developer and publisher of League of Legends: Assassin, Fighter, Mage, Marksman, Support, and Tank. These classes differ greatly in aesthetic theme and in how they feel to the player. For example, some classes are built for one versus one duels with enemy players, and some are built to thrive in conflicts involving the entirity of both teams.
+
+There are several different types of concrete advantage to be had in League of Legends that this study considers. The first is _gold_. Gold is granted in some quantity by almost every activity in League of Legends, and is used to buy items, which make the players' characters more powerful. This is one of two individual progression systems in League of Legends. The second type of individual advantage is _experience_. Experience points are granted to players who are standing in a radius of neutral or enemy units when they die, and occasionally through several other mechanisms which are specific to certain characters. Hitting thresholds of experience causes your character to level up, which makes your character more powerful. 
+
+
+
+
+# Data
+
+# Model
+
+## Exploratory Data Analysis
+
+## Model Selection
+
+## Model Assessment
+
+# Conclusions
+
+## Limitations
+
+
