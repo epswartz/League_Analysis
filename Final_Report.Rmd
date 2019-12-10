@@ -27,13 +27,17 @@ The 8064 games which comprise the data for this analysis was collected via Riot 
 
 * **assists** (Numeric): How many times the player assisted in a kill during the game
 * **ccScore** (Numeric): Number of seconds the player spent inhibiting the movement of enemy players in the game, weighted by number of players and type of movement inhibiting effect (this figure is provided by Riot API)
-* **championClass** (Categorical): Which class of character the player was playing during the game.                           deaths              | Numeric     | How many times the player died during the game                                            firstDragon         | Categorical | Which team killed the first Dragon, a neutral monster.                                    firstTower          | Categorical | Which team destroyed the first tower, a defensive building                                                                                                                                          |
-| fiveMinuteGoldDelta | Numeric     | Difference between the player of interest's gold total at 5 minutes and the average for the game                                                                                                    |
-| fiveMinuteXPDelta   | Numeric     | Difference between the player of interest's experience total at 5 minutes and the average for the game                                                                                              |
-| kills               | Numeric     | How many kills the player achieved during the game                                                                                                                                                  |
-| wardKills           | Numeric     | Number of "wards" (units which observe the enemy players to gather information) killed by the player                                                                                                |
-| win                 | Binary      | Whether the player of interest won the game                                                                                                                                                         |
-
+* **championClass** (Categorical): Which class of character the player was playing during the game
+* **deaths** (Numeric): How many times the player died during the game   
+* **firstBaron** (Categorical): Which team killed the first Baron, a late game neutral monster.
+* **firstBloodKill** (Binary): Whether the player got the first kill of the game.
+* **firstDragon** (Categorical): Which team killed the first Dragon, a neutral monster.         * **firstTower** (Categorical): Which team destroyed the first tower, a defensive building
+* **fiveMinuteGoldDelta** (Numeric): Difference between the player of interest's gold total at 5 minutes and the average for the game
+* **fiveMinuteXPDelta** (Numeric): Difference between the player of interest's experience total at 5 minutes and the average for the game
+* **goldEarned** (Numeric): Total amount of gold earned by the player during the game
+* **kills** (Numeric): How many kills the player achieved during the game
+* **wardKills** (Numeric): Number of "wards" (units which observe the enemy players to gather information) killed by the player
+* **win** (Binary Response): Whether the player of interest won the game
 
 # Model
 
