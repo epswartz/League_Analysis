@@ -33,8 +33,10 @@ games_marksman = games[games$championClass == "Marksman",]
 games_support = games[games$championClass == "Support",]
 games_tank = games[games$championClass == "Tank",]
 
-
 # EDA
+
+table(games$firstBloodKill, games$win)
+
 boxplot(goldEarned ~ win, data = games, col=rainbow(10))
 boxplot(fiveMinuteGoldDelta ~ win, data = games, col=rainbow(10))
 boxplot(fiveMinuteXPDelta ~ win, data = games, col=rainbow(10))
@@ -148,6 +150,7 @@ model_full = glm(win ~ fiveMinuteGoldDelta +
     #allyBaronKills +
     #enemyBaronKills +
     championClass +
+    firstBloodKill +
     #goldEarned + 
     kills +
     deaths +
@@ -155,6 +158,7 @@ model_full = glm(win ~ fiveMinuteGoldDelta +
     ccScore +
     wardKills +
     firstDragon +
+    championClass*firstBloodKill +
     championClass*kills +
     championClass*deaths +
     #championClass*assists +
