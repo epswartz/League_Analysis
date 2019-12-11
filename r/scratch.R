@@ -1,3 +1,4 @@
+set.seed(15)
 library(lattice) # for xyplot
 library(lme4)
 library(dplyr)
@@ -6,24 +7,15 @@ library(arm) # for binnedplot
 library(rms) # for VIF
 #library(leaps) #stepwise selection
 
+# if you run this, obviously the following line needs to change
 setwd("/Users/ethan/702_final_project/r")
 
 # Read in games
-games_orig = read.csv("../data/combined_games.csv", header = T, sep=",", row.names = NULL)
+games_orig = read.csv("../data/combined_games.csv",
+    header = T,
+    sep=",",
+    row.names = NULL)
 games = games_orig
-    
-#View(games)
-
-#center <- function(x){
-#    scale(x, center=TRUE, scale=FALSE)
-#}
-
-# Mean center numeric predictors
-#games = games %>%
-#    mutate_if(is.numeric, center)
-
-# Actual outcome gets centered by the above - need to not do that
-games$win = games_orig$win
 
 # Create separate DF per class, useful for EDA
 games_assassin = games[games$championClass == "Assassin",]
@@ -37,14 +29,27 @@ games_tank = games[games$championClass == "Tank",]
 
 table(games$firstBloodKill, games$win)
 
-boxplot(goldEarned ~ win, data = games, col=rainbow(10))
-boxplot(fiveMinuteGoldDelta ~ win, data = games, col=rainbow(10))
-boxplot(fiveMinuteXPDelta ~ win, data = games, col=rainbow(10))
-boxplot(goldEarned ~ championClass, data = games, col=rainbow(10))
+par(mfrow=c(2,2))
+boxplot(goldEarned ~ win,
+    data = games,
+    col=rainbow(10))
+boxplot(fiveMinuteGoldDelta ~ win,
+    data = games,
+    col=rainbow(10))
+boxplot(fiveMinuteXPDelta ~ win,
+    data = games,
+    col=rainbow(10))
+boxplot(goldEarned ~ championClass,
+    data = games,
+    col=rainbow(10))
 
-binnedplot(y=games$win,games$fiveMinuteGoldDelta,xlab="5MGD",ylim=c(0,1),col.pts="navy",
-           ylab ="Win?",main="Binned 5MGD vs. Win",
-           col.int="white") # this is to set the SD lines to white and ignore them
+binnedplot(y=games$win,games$fiveMinuteGoldDelta,
+    xlab="5MGD",
+    ylim=c(0,1),
+    col.pts="navy",
+    ylab ="Win?",
+    main="Binned 5MGD vs. Win",
+    col.int="white")
 
 
 # binnedplots by class w/ 5MGD
@@ -52,22 +57,22 @@ par(mfrow=c(2,3))
 
 binnedplot(y=games_assassin$win,games_assassin$fiveMinuteGoldDelta,xlab="5MGD",ylim=c(0,1),col.pts="navy",
            ylab ="Win?",main="Assassin",
-           col.int="white") # this is to set the SD lines to white and ignore them
+           col.int="white")
 binnedplot(y=games_fighter$win,games_fighter$fiveMinuteGoldDelta,xlab="5MGD",ylim=c(0,1),col.pts="navy",
            ylab ="Win?",main="Fighter",
-           col.int="white") # this is to set the SD lines to white and ignore them
+           col.int="white")
 binnedplot(y=games_mage$win,games_mage$fiveMinuteGoldDelta,xlab="5MGD",ylim=c(0,1),col.pts="navy",
            ylab ="Win?",main="Mage",
-           col.int="white") # this is to set the SD lines to white and ignore them
+           col.int="white")
 binnedplot(y=games_marksman$win,games_marksman$fiveMinuteGoldDelta,xlab="5MGD",ylim=c(0,1),col.pts="navy",
            ylab ="Win?",main="Marksman",
-           col.int="white") # this is to set the SD lines to white and ignore them
+           col.int="white")
 binnedplot(y=games_support$win,games_support$fiveMinuteGoldDelta,xlab="5MGD",ylim=c(0,1),col.pts="navy",
            ylab ="Win?",main="Support",
-           col.int="white") # this is to set the SD lines to white and ignore them
+           col.int="white")
 binnedplot(y=games_tank$win,games_tank$fiveMinuteGoldDelta,xlab="5MGD",ylim=c(0,1),col.pts="navy",
            ylab ="Win?",main="Tank",
-           col.int="white") # this is to set the SD lines to white and ignore them
+           col.int="white")
 
 par(mfrow=c(2,3))
 
@@ -147,11 +152,8 @@ model_simple = glm(win ~ fiveMinuteGoldDelta +
     family=binomial(link="logit"))
 
 model_full = glm(win ~ fiveMinuteGoldDelta +
-    #allyBaronKills +
-    #enemyBaronKills +
     championClass +
     firstBloodKill +
-    #goldEarned + 
     kills +
     deaths +
     assists +
@@ -161,18 +163,11 @@ model_full = glm(win ~ fiveMinuteGoldDelta +
     championClass*firstBloodKill +
     championClass*kills +
     championClass*deaths +
-    #championClass*assists +
     championClass*firstDragon +
     championClass*fiveMinuteGoldDelta +
     championClass*fiveMinuteXPDelta +
-    #championClass*goldEarned +
     fiveMinuteXPDelta +
     firstTower,
-    #allyDragonKills +
-    #visionScore +
-    #championClass*visionScore,
-    #championClass*ccScore,
-    #enemyDragonKills,
     data=games,
     family=binomial(link="logit"))
 
